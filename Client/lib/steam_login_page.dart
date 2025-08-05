@@ -12,8 +12,9 @@ class _SteamLoginPageState extends State<SteamLoginPage> {
   late final WebViewController _controller;
 
   final String steamLoginUrl =
-      'http://192.168.1.93:3000/auth/steam'; // ← for real phone
+      'http://192.168.1.249:3000/auth/steam'; // ← Your machine's current IP
 
+  // final String steamLoginUrl = 'http://192.168.1.93:3000/auth/steam'; // ← old IP
   // final String steamLoginUrl = 'http://192.168.149.243:3000/auth/steam';
 
   @override
