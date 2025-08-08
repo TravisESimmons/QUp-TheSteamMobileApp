@@ -15,25 +15,25 @@ Q-Up helps you and your friends find the best Steam games to play together. Sign
 ## Screenshots
 
 ### Landing Screen
-![Landing](assets/images/landing.png)
+![Landing](Client/assets/images/landing.png)
 
 ### Quick Match
-![Quick Match](assets/images/friend_quick_match.png)
+![Quick Match](Client/assets/images/friend_quick_match.png)
 
 ### Quick Match Result
-![Quick Match Result](assets/images/quick_result.png)
+![Quick Match Result](Client/assets/images/quick_result.png)
 
 ### Custom Match
-![Custom Match](assets/images/friend_custom_match.png)
+![Custom Match](Client/assets/images/friend_custom_match.png)
 
 ### Custom Match Result
-![Custom Match Result](assets/images/custom_result.png)
+![Custom Match Result](Client/assets/images/custom_result.png)
 
 ### My Games
-![My Games](assets/images/my_games.png)
+![My Games](Client/assets/images/my_games.png)
 
 ### Settings
-![Settings](assets/images/settings.png)
+![Settings](Client/assets/images/settings.png)
 
 ## How It Works
 
