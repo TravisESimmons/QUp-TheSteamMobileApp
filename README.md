@@ -1,5 +1,6 @@
 
 # Q-Up
+# QUp! The Steam Mobile App 🎮
 
 Q-Up helps you and your friends find the best Steam games to play together. Sign in with Steam, see your friends' libraries, and discover multiplayer games you all own—filtered by genre, playtime, and more.
 
