@@ -64,8 +64,6 @@ Q-Up helps you and your friends find the best Steam games to play together. Sign
 
 ---
 
-*All screenshots are for demonstration purposes only. No personal Steam information is shared.*
-
 ```bash
 cd API
 npm install
