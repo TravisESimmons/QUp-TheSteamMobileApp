@@ -1,4 +1,4 @@
-# QUp SteamMobileApp 🎮
+# QUp! The Steam Mobile App 🎮
 
 A full-stack mobile application that helps Steam users discover the best multiplayer games to play together based on shared game libraries, playtime, download size, and more.
 
