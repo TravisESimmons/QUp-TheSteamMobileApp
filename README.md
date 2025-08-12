@@ -1,7 +1,8 @@
 
 ### 1. Home / Index Page
 <div align="left"><img src="Client/steam-mobile-client/assets/images/index-main.jpg" width="400" alt="Index Page"/></div>
-## QUp! The Steam Mobile App
+
+# QUp! The Steam Mobile App
 
 QUp! is a cross-platform mobile app built with Flutter and Node.js that helps you and your friends find the best Steam games to play together. Sign in with Steam, see your friends’ libraries, and discover multiplayer games you all own—filtered by genre, playtime, and more.
 
