@@ -7,7 +7,7 @@ const appDetailsCache = new Map();
 
 const app = express();
 const PORT = 3000;
-const localNetworkUrl = 'http://192.168.1.93:3000';
+const renderUrl = 'https://qup-thesteammobileapp.onrender.com';
 const steamApiKey = '0D163381E89303C6F85DA8E895D43F92';
 
 // Use only multiplayer games with valid sizes (faster load, tighter filter)
@@ -20,8 +20,8 @@ const localGameCache = JSON.parse(fs.readFileSync('./filteredMultiplayerGames.js
 
 app.use(session({ secret: 'queueup_secret', resave: false, saveUninitialized: true }));
 app.use(SteamAuth.middleware({
-  realm: `${localNetworkUrl}/`,
-  verify: `${localNetworkUrl}/auth/steam/return`,
+  realm: `${renderUrl}/`,
+  verify: `${renderUrl}/auth/steam/return`,
   apiKey: steamApiKey
 }));
 
@@ -314,5 +314,5 @@ app.get('/api/quick-match', async (req, res) => {
 });
 
 app.listen(PORT, '0.0.0.0', () => {
-  console.log(`🚀 LIVE API-ONLY SERVER at ${localNetworkUrl}`);
+  console.log(`🚀 LIVE API-ONLY SERVER at ${renderUrl}`);
 });
