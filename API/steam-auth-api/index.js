@@ -137,14 +137,10 @@ app.get('/auth/steam', SteamAuth.authenticate());
 app.get('/auth/steam/return', SteamAuth.verify(), (req, res) => {
   const steamId = req.user?.steamid;
   if (!steamId) return res.status(400).send("Steam login failed");
-  // Redirect to a web page for browser compatibility
-  res.redirect(`/login-success?steamid=${steamId}`);
+  // Restore original deep link redirect for app
+  res.redirect(`steamqapp://auth-success?steamid=${steamId}`);
 });
-// Simple login success page for web
-app.get('/login-success', (req, res) => {
-  const steamId = req.query.steamid;
-  res.send(`<h2>Steam Login Successful!</h2><p>Your SteamID: <b>${steamId || 'Unknown'}</b></p>`);
-});
+
 
 app.get('/api/user-info', async (req, res) => {
   const steamId = req.query.steamid;
