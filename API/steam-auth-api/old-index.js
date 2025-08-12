@@ -23,7 +23,7 @@ axios.get('https://api.ipify.org?format=json').then(res => {
 const app = express();
 const PORT = 3000;
 const localNetworkUrl = 'http://192.168.1.93:3000';
-const steamApiKey = '0D163381E89303C6F85DA8E895D43F92';
+const steamApiKey = process.env.STEAM_API_KEY || '';
 
 const userGameMap = {};
 const storeMetaCache = {};

@@ -8,7 +8,7 @@ const appDetailsCache = new Map();
 const app = express();
 const PORT = 3000;
 const renderUrl = 'https://qup-thesteammobileapp.onrender.com';
-const steamApiKey = '0D163381E89303C6F85DA8E895D43F92';
+const steamApiKey = process.env.STEAM_API_KEY || '';
 
 // Use only multiplayer games with valid sizes (faster load, tighter filter)
 const localGameCache = JSON.parse(fs.readFileSync('./filteredMultiplayerGames.json', 'utf-8'));

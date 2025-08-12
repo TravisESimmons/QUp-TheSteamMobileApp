@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const steamApiKey = '0D163381E89303C6F85DA8E895D43F92'; // 🔑 Insert your actual key
+const steamApiKey = process.env.STEAM_API_KEY || '';
 const testSteamId = '76561198082041280';  // 👤 Use your own SteamID64
 
 (async () => {

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 
-const steamApiKey = '0D163381E89303C6F85DA8E895D43F92';
+const steamApiKey = process.env.STEAM_API_KEY || '';
 const yourSteamId = '76561198082041280';
 
 const FRIENDS_CACHE_PATH = path.join(__dirname, 'steam_cache', 'friends.json');

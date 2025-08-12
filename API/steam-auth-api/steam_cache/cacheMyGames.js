@@ -2,7 +2,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const steamApiKey = '0D163381E89303C6F85DA8E895D43F92';
+const steamApiKey = process.env.STEAM_API_KEY || '';
 const yourSteamId = '76561198082041280'; // 👈 your own Steam ID
 const filePath = `./cached_games_${yourSteamId}.json`;
 
