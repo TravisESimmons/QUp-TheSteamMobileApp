@@ -1,0 +1,457 @@
+[
+  {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "playtime_forever": 110,
+    "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 34190,
+    "name": "Sonic and SEGA All Stars Racing",
+    "playtime_forever": 0,
+    "img_icon_url": "4d1e6978b6ca1add7e4ab63e966129bef19598f0"
+  },
+  {
+    "appid": 34270,
+    "name": "SEGA Mega Drive & Genesis Classics",
+    "playtime_forever": 7,
+    "img_icon_url": "2cda9462fbaf9309e5aedce99ad8452adf8a40bd",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 71250,
+    "name": "Sonic Adventure DX",
+    "playtime_forever": 0,
+    "img_icon_url": "6568d25b43e2d1d07fc16cbe3ac9278ca51c2fb3",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 200940,
+    "name": "Sonic CD",
+    "playtime_forever": 14,
+    "img_icon_url": "c13c103a631685935bafb047ff5c3a4f9d44d697",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 202530,
+    "name": "SONIC THE HEDGEHOG 4 Episode I",
+    "playtime_forever": 0,
+    "img_icon_url": "c41474017b2da75cd9cf422d045a91af55ed92a6",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 203650,
+    "name": "SONIC THE HEDGEHOG 4 Episode II",
+    "playtime_forever": 0,
+    "img_icon_url": "d7a8313da6d6f5d5ce1f8a7efe4d0cbcf22c557c",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 218510,
+    "name": "Planets Under Attack",
+    "playtime_forever": 0,
+    "img_icon_url": "0a4facf2f70601d844c6d51f04895688edc0e678",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 213610,
+    "name": "Sonic Adventure™ 2 ",
+    "playtime_forever": 0,
+    "img_icon_url": "0ff2b133493b0bf7f1c16a38a83e7053f0b90f2d",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1900,
+    "name": "Earth 2160",
+    "playtime_forever": 0,
+    "img_icon_url": "0a721907de90582dd4a53b55a2f260df19e2c72b"
+  },
+  {
+    "appid": 202970,
+    "name": "Call of Duty: Black Ops II",
+    "playtime_forever": 50,
+    "img_icon_url": "0a23d78ade8c8d7b4cfa15bf71c9dd535b2998ca",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 202990,
+    "name": "Call of Duty: Black Ops II - Multiplayer",
+    "playtime_forever": 0,
+    "img_icon_url": "1f3a69123b4c7e47904dcd0c55e48c5522e30284",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 212910,
+    "name": "Call of Duty: Black Ops II - Zombies",
+    "playtime_forever": 2,
+    "img_icon_url": "abbc45872375bcf8ac6b67cae6ed9ddb6c75d350",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 253960,
+    "name": "Jack Orlando Director's Cut",
+    "playtime_forever": 0,
+    "img_icon_url": "1eaa87aa401457084d8432948d2bd2ab6d4d3398"
+  },
+  {
+    "appid": 205350,
+    "name": "Mortal Kombat Kollection",
+    "playtime_forever": 123,
+    "img_icon_url": "048e463386c8f0049d6e08bbf8f5ebb5d232394f",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 246620,
+    "name": "Plague Inc: Evolved",
+    "playtime_forever": 297,
+    "img_icon_url": "9e39dcfd5a300732c16111b268853ef11a0ba4d0",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 322170,
+    "name": "Geometry Dash",
+    "playtime_forever": 4363,
+    "img_icon_url": "7fb2e71773468dbd98d56c733b604c92f5ab0ad4",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 230290,
+    "name": "Universe Sandbox",
+    "playtime_forever": 7067,
+    "img_icon_url": "d7ac517716aff8c9065d8b5e868cbf69d62c8c2f"
+  },
+  {
+    "appid": 357190,
+    "name": "Ultimate Marvel vs. Capcom 3",
+    "playtime_forever": 156,
+    "img_icon_url": "d7a0929698ca92db48dd0d4f47794b1e32bbc9e4",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 397540,
+    "name": "Borderlands 3",
+    "playtime_forever": 28,
+    "img_icon_url": "0ac7b8d98fad581f65b0533bbce63bf953d743ac",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 329440,
+    "name": "Sonic Lost World",
+    "playtime_forever": 0,
+    "img_icon_url": "db03f24839f0c846601799dc78c9994fff4dc3c7",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 447530,
+    "name": "VA-11 Hall-A: Cyberpunk Bartender Action",
+    "playtime_forever": 75,
+    "img_icon_url": "eb4485232d4ac9ec5a786fa4ba5b9c95fc3e8d63",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      5
+    ]
+  },
+  {
+    "appid": 449040,
+    "name": "Jesus Christ RPG Trilogy",
+    "playtime_forever": 1,
+    "img_icon_url": "69df2b430a29de0f954ae32ef2efe08b10d58b05"
+  },
+  {
+    "appid": 311210,
+    "name": "Call of Duty: Black Ops III",
+    "playtime_forever": 13757,
+    "img_icon_url": "bd3e3a9516b480164df25d16e49ae4ce4a063cb4",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 71340,
+    "name": "Sonic Generations",
+    "playtime_forever": 0,
+    "img_icon_url": "efda039147f0968bc726c547ff3809f98b69964a",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 504880,
+    "name": "Pixel Puzzles 2: RADical ROACH",
+    "playtime_forever": 0,
+    "img_icon_url": "330c5ded5212fb5a57451051679b59b9c707001f",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1005240,
+    "name": "Pixel Puzzles Illustrations & Anime Jigsaw Puzzles",
+    "playtime_forever": 0,
+    "img_icon_url": "3d1fefd97fdf17917ab0dd16d2f802266a3d536c",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 1058200,
+    "name": "Pixel Puzzles Traditional Jigsaw Puzzles",
+    "playtime_forever": 0,
+    "img_icon_url": "acb320e3b55a25c5b7b5b9a76a6bbe922c51f063",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 583760,
+    "name": "Slash It 2",
+    "playtime_forever": 0,
+    "img_icon_url": "24cab6c3706d3cca8c4b4681150f27ff409e6da8",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 677620,
+    "name": "Splitgate",
+    "playtime_forever": 0,
+    "img_icon_url": "03e452b180ff77986c3957819bde4c69448a2d0f",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 584400,
+    "name": "Sonic Mania",
+    "playtime_forever": 659,
+    "img_icon_url": "c329b28adc1eb1ae73c9d4df9d9e48d7ea63bd86",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 637100,
+    "name": "Sonic Forces",
+    "playtime_forever": 0,
+    "img_icon_url": "e405c946956c76418fc8bd228ffc473f52c4c41d",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 678950,
+    "name": "DRAGON BALL FighterZ",
+    "playtime_forever": 12543,
+    "img_icon_url": "ebac40c0f7452dcafd40d0fb0ad52c2ae10639f5",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 755980,
+    "name": "DEPLOYMENT",
+    "playtime_forever": 0,
+    "img_icon_url": "dccea90098117ba21621fb66c35e796f35c49998",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 871720,
+    "name": "Ultimate Custom Night",
+    "playtime_forever": 15,
+    "img_icon_url": "b2fd1232960c8a481c7b857509ad20dd11c0de64"
+  },
+  {
+    "appid": 945360,
+    "name": "Among Us",
+    "playtime_forever": 3869,
+    "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 957960,
+    "name": "Inkulinati",
+    "playtime_forever": 0,
+    "img_icon_url": "00d3ff7eeded066d5ede8da623cec39044e29f80",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 960090,
+    "name": "Bloons TD 6",
+    "playtime_forever": 137,
+    "img_icon_url": "c5f0b67c8beeb6be99abe2ad8db2cada5d5ccff0",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 49520,
+    "name": "Borderlands 2",
+    "playtime_forever": 2596,
+    "img_icon_url": "a3f4945226e69b6196074df4c776e342d3e5a3be",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 261640,
+    "name": "Borderlands: The Pre-Sequel",
+    "playtime_forever": 0,
+    "img_icon_url": "af5ef05eac8b1eb618e4f57354ac7b3e918ab1bd",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 996580,
+    "name": "Spyro™ Reignited Trilogy",
+    "playtime_forever": 0,
+    "img_icon_url": "58d9d5bb243382cdb00259733d71e7621f502a2d",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1099640,
+    "name": "Jack Move",
+    "playtime_forever": 0,
+    "img_icon_url": "ec624d701fbac6e63e4a1839c30958ff5a0e9074",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1128810,
+    "name": "RISK: Global Domination",
+    "playtime_forever": 1,
+    "img_icon_url": "ecc6f7301e88a88e93edec1a3d4ddcc7ec9c5335",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1241040,
+    "name": "Deep Despair",
+    "playtime_forever": 0,
+    "img_icon_url": "c943564e10669fb85b74672a6ee38f9dbbcc1234"
+  },
+  {
+    "appid": 1275350,
+    "name": "Ninja Kiwi Archive",
+    "playtime_forever": 53,
+    "img_icon_url": "4d7f75cfdf614baab330c2e63559d6e600b273e9",
+    "content_descriptorids": [
+      5
+    ]
+  },
+  {
+    "appid": 1334010,
+    "name": "Last Room",
+    "playtime_forever": 0,
+    "img_icon_url": "c9b798bc314d8568c40b787d7e827b5c5b9986ae"
+  },
+  {
+    "appid": 242700,
+    "name": "Injustice: Gods Among Us Ultimate Edition",
+    "playtime_forever": 3,
+    "img_icon_url": "4ea9f28360ca77b2ced5c8ac5545fcfc6ea8ef15",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 245170,
+    "name": "Skullgirls 2nd Encore",
+    "playtime_forever": 0,
+    "img_icon_url": "0931d59aa0e33244275f4fa6c4409816ccf00296",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      5
+    ]
+  },
+  {
+    "appid": 330830,
+    "name": "Tales from the Borderlands",
+    "playtime_forever": 0,
+    "img_icon_url": "620dbf286a2ef353c9c93e5b7c047027b18f1475",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 1915380,
+    "name": "Garden Life: A Cozy Simulator",
+    "playtime_forever": 0,
+    "img_icon_url": "ae6d2eaaf7ff94012d3bcdaeeda86b9f349c9c18",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1794960,
+    "name": "Sonic Origins",
+    "playtime_forever": 623,
+    "img_icon_url": "f3601b63acb04613d5437a56aae1dbac77d12ba7",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1454970,
+    "name": "New Tales from the Borderlands",
+    "playtime_forever": 0,
+    "img_icon_url": "2d0e4449e50afeeffc49761264b9891ade61b7eb",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 1222670,
+    "name": "The Sims™ 4",
+    "playtime_forever": 645,
+    "img_icon_url": "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
+  },
+  {
+    "appid": 2324650,
+    "name": "The Murder of Sonic the Hedgehog",
+    "playtime_forever": 0,
+    "img_icon_url": "0da85d6bca94f4e4e81b71deb3145859d094d5d1"
+  },
+  {
+    "appid": 8980,
+    "name": "Borderlands GOTY",
+    "playtime_forever": 0,
+    "img_icon_url": "eb45fb32b7f4e75564a30a52aa3c35a191253ea0",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 729040,
+    "name": "Borderlands GOTY Enhanced",
+    "playtime_forever": 0,
+    "img_icon_url": "aba56aae141ef1495cef3534163beb1664b417c0",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 70,
+    "name": "Half-Life",
+    "playtime_forever": 1,
+    "img_icon_url": "95be6d131fc61f145797317ca437c9765f24b41c",
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 383180,
+    "name": "Dead Island Riptide Definitive Edition",
+    "playtime_forever": 0,
+    "img_icon_url": "68ea0c6d8ed1d089687da6318a62a7c3e3b5741b",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 2767030,
+    "name": "Marvel Rivals",
+    "playtime_forever": 7,
+    "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1790600,
+    "name": "DRAGON BALL: Sparking! ZERO",
+    "playtime_forever": 1040,
+    "img_icon_url": "72a0587452b190e38aee6de62ae9629a7e8cc8ba",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 470220,
+    "name": "UNO",
+    "playtime_forever": 122,
+    "img_icon_url": "8714f533f03a77d88905b44e56b905e637478e75"
+  }
+]

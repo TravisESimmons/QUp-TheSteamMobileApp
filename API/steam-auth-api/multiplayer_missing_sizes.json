@@ -1,0 +1,4332 @@
+[
+  {
+    "appid": 10,
+    "name": "Counter-Strike",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Nov, 2000"
+  },
+  {
+    "appid": 20,
+    "name": "Team Fortress Classic",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Apr, 1999"
+  },
+  {
+    "appid": 30,
+    "name": "Day of Defeat",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 May, 2003"
+  },
+  {
+    "appid": 40,
+    "name": "Deathmatch Classic",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Jun, 2001"
+  },
+  {
+    "appid": 50,
+    "name": "Half-Life: Opposing Force",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Nov, 1999"
+  },
+  {
+    "appid": 60,
+    "name": "Ricochet",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Nov, 2000"
+  },
+  {
+    "appid": 70,
+    "name": "Half-Life",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "19 Nov, 1998"
+  },
+  {
+    "appid": 80,
+    "name": "Counter-Strike: Condition Zero",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Mar, 2004"
+  },
+  {
+    "appid": 100,
+    "name": "Counter-Strike: Condition Zero",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Mar, 2004"
+  },
+  {
+    "appid": 320,
+    "name": "Half-Life 2: Deathmatch",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Nov, 2004"
+  },
+  {
+    "appid": 360,
+    "name": "Half-Life Deathmatch: Source",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 May, 2006"
+  },
+  {
+    "appid": 500,
+    "name": "Left 4 Dead",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "17 Nov, 2008"
+  },
+  {
+    "appid": 1200,
+    "name": "Red Orchestra: Ostfront 41-45",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Mar, 2006"
+  },
+  {
+    "appid": 1230,
+    "name": "Mare Nostrum",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "17 Oct, 2008"
+  },
+  {
+    "appid": 1280,
+    "name": "Darkest Hour: Europe '44-'45",
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "release_date": "9 Jun, 2009"
+  },
+  {
+    "appid": 1530,
+    "name": "Multiwinia",
+    "genres": [
+      "Indie"
+    ],
+    "release_date": "19 Sep, 2008"
+  },
+  {
+    "appid": 2100,
+    "name": "Dark Messiah of Might & Magic",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "25 Oct, 2006"
+  },
+  {
+    "appid": 2130,
+    "name": "Dark Messiah of Might & Magic",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "25 Oct, 2006"
+  },
+  {
+    "appid": 2200,
+    "name": "Quake III Arena",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "3 Aug, 2007"
+  },
+  {
+    "appid": 2300,
+    "name": "DOOM II",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "3 Aug, 2007"
+  },
+  {
+    "appid": 2400,
+    "name": "The Ship: Murder Party",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "11 Jul, 2006"
+  },
+  {
+    "appid": 2450,
+    "name": "Bloody Good Time",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "29 Oct, 2010"
+  },
+  {
+    "appid": 2500,
+    "name": "Shadowgrounds",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "8 May, 2006"
+  },
+  {
+    "appid": 2630,
+    "name": "Call of Duty\u00ae 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "13 Oct, 2006"
+  },
+  {
+    "appid": 2760,
+    "name": "Neverwinter Nights\u2122 2 Platinum",
+    "genres": [
+      "RPG"
+    ],
+    "release_date": "27 Dec, 2010"
+  },
+  {
+    "appid": 2990,
+    "name": "FlatOut 2",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "21 Dec, 2006"
+  },
+  {
+    "appid": 3270,
+    "name": "Painkiller Overdose",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "30 Oct, 2007"
+  },
+  {
+    "appid": 3710,
+    "name": "Judge Dredd: Dredd vs. Death",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "26 Mar, 2009"
+  },
+  {
+    "appid": 3900,
+    "name": "Sid Meier's Civilization\u00ae IV",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "25 Oct, 2006"
+  },
+  {
+    "appid": 3910,
+    "name": "Sid Meier's Civilization\u00ae III Complete",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "25 Oct, 2006"
+  },
+  {
+    "appid": 4500,
+    "name": "S.T.A.L.K.E.R.: Shadow of Chernobyl",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "20 Mar, 2007"
+  },
+  {
+    "appid": 4560,
+    "name": "Company of Heroes - Legacy Edition",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "17 Jul, 2007"
+  },
+  {
+    "appid": 4570,
+    "name": "Warhammer 40,000: Dawn of War - Anniversary Edition",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "7 Aug, 2007"
+  },
+  {
+    "appid": 4580,
+    "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae - Dark Crusade",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "7 Aug, 2007"
+  },
+  {
+    "appid": 4700,
+    "name": "Total War: MEDIEVAL II \u2013 Definitive Edition",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "15 Nov, 2006"
+  },
+  {
+    "appid": 4760,
+    "name": "Rome: Total War\u2122 - Collection",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "28 Aug, 2007"
+  },
+  {
+    "appid": 4770,
+    "name": "Rome: Total War\u2122 - Alexander",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "28 Aug, 2007"
+  },
+  {
+    "appid": 4920,
+    "name": "Natural Selection 2",
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "30 Oct, 2012"
+  },
+  {
+    "appid": 6000,
+    "name": "STAR WARS\u2122 Republic Commando\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "8 Jul, 2009"
+  },
+  {
+    "appid": 6020,
+    "name": "STAR WARS\u2122 Jedi Knight - Jedi Academy\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Sep, 2009"
+  },
+  {
+    "appid": 6030,
+    "name": "STAR WARS\u2122 Jedi Knight II - Jedi Outcast\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Sep, 2009"
+  },
+  {
+    "appid": 6060,
+    "name": "STAR WARS\u2122 Battlefront II (Classic, 2005)",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "8 Jul, 2009"
+  },
+  {
+    "appid": 6120,
+    "name": "Shank",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "25 Oct, 2010"
+  },
+  {
+    "appid": 6510,
+    "name": "Lost Planet\u2122: Extreme Condition",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "26 Jun, 2007"
+  },
+  {
+    "appid": 6910,
+    "name": "Deus Ex: Game of the Year Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "29 Mar, 2007"
+  },
+  {
+    "appid": 7010,
+    "name": "Project: Snowblind",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "29 Mar, 2007"
+  },
+  {
+    "appid": 7600,
+    "name": "Sid Meier's Railroads!",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "4 May, 2007"
+  },
+  {
+    "appid": 7800,
+    "name": "Stubbs the Zombie in Rebel Without a Pulse",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Mar, 2021"
+  },
+  {
+    "appid": 7940,
+    "name": "Call of Duty\u00ae 4: Modern Warfare\u00ae (2007)",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Nov, 2007"
+  },
+  {
+    "appid": 8080,
+    "name": "Kane and Lynch: Dead Men\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "13 Dec, 2007"
+  },
+  {
+    "appid": 8170,
+    "name": "Battlestations Pacific",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "12 May, 2009"
+  },
+  {
+    "appid": 8600,
+    "name": "RACE 07",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "15 Oct, 2007"
+  },
+  {
+    "appid": 8660,
+    "name": "GTR Evolution Expansion Pack for RACE 07",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "1 Sep, 2008"
+  },
+  {
+    "appid": 8850,
+    "name": "BioShock\u00ae 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "9 Feb, 2010"
+  },
+  {
+    "appid": 8930,
+    "name": "Sid Meier's Civilization\u00ae V",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "21 Sep, 2010"
+  },
+  {
+    "appid": 8980,
+    "name": "Borderlands Game of the Year",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "31 Aug, 2023"
+  },
+  {
+    "appid": 9050,
+    "name": "DOOM 3",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "3 Aug, 2007"
+  },
+  {
+    "appid": 9070,
+    "name": "DOOM 3 Resurrection of Evil",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "3 Aug, 2007"
+  },
+  {
+    "appid": 9200,
+    "name": "RAGE",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "3 Oct, 2011"
+  },
+  {
+    "appid": 9310,
+    "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae \u2013 Winter Assault",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "7 Aug, 2007"
+  },
+  {
+    "appid": 9340,
+    "name": "Company of Heroes: Opposing Fronts",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "24 Sep, 2007"
+  },
+  {
+    "appid": 9350,
+    "name": "Supreme Commander",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "28 Sep, 2011"
+  },
+  {
+    "appid": 9420,
+    "name": "Supreme Commander: Forged Alliance",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "28 Sep, 2011"
+  },
+  {
+    "appid": 9450,
+    "name": "Warhammer\u00ae 40,000: Dawn of War\u00ae - Soulstorm",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "5 Mar, 2008"
+  },
+  {
+    "appid": 9500,
+    "name": "Gish",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "20 Jul, 2007"
+  },
+  {
+    "appid": 10090,
+    "name": "Call of Duty: World at War",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "18 Nov, 2008"
+  },
+  {
+    "appid": 10180,
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Nov, 2009"
+  },
+  {
+    "appid": 10190,
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae 2 (2009)",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Nov, 2009"
+  },
+  {
+    "appid": 10500,
+    "name": "Total War: EMPIRE \u2013 Definitive Edition",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "4 Mar, 2009"
+  },
+  {
+    "appid": 10680,
+    "name": "Aliens vs. Predator\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Feb, 2010"
+  },
+  {
+    "appid": 11020,
+    "name": "TrackMania Nations Forever",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "16 Apr, 2008"
+  },
+  {
+    "appid": 11200,
+    "name": "Shadowgrounds Survivor",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Nov, 2007"
+  },
+  {
+    "appid": 12210,
+    "name": "Grand Theft Auto IV: The Complete Edition",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "24 Mar, 2020"
+  },
+  {
+    "appid": 12790,
+    "name": "Damnation",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "22 May, 2009"
+  },
+  {
+    "appid": 13140,
+    "name": "America's Army 3",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "17 Jun, 2009"
+  },
+  {
+    "appid": 13210,
+    "name": "Unreal Tournament 3",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "5 Mar, 2009"
+  },
+  {
+    "appid": 13230,
+    "name": "Unreal Tournament 2004: Editor's Choice Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "17 Mar, 2008"
+  },
+  {
+    "appid": 13510,
+    "name": "Tom Clancy's Ghost Recon Advanced Warfighter\u00ae 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "15 Jul, 2008"
+  },
+  {
+    "appid": 15120,
+    "name": "Tom Clancy's Rainbow Six\u00ae Vegas 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Apr, 2008"
+  },
+  {
+    "appid": 15620,
+    "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "18 Feb, 2009"
+  },
+  {
+    "appid": 16450,
+    "name": "F.E.A.R. 2: Project Origin",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Feb, 2009"
+  },
+  {
+    "appid": 16700,
+    "name": "Stronghold Crusader Extreme",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "1 Jul, 2008"
+  },
+  {
+    "appid": 16810,
+    "name": "Sid Meier's Civilization IV: Colonization",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "23 Sep, 2008"
+  },
+  {
+    "appid": 17080,
+    "name": "Tribes: Ascend",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "27 Jun, 2012"
+  },
+  {
+    "appid": 19900,
+    "name": "Far Cry\u00ae 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "22 Oct, 2008"
+  },
+  {
+    "appid": 20500,
+    "name": "Red Faction Guerrilla Steam Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "15 Sep, 2009"
+  },
+  {
+    "appid": 20540,
+    "name": "Company of Heroes: Tales of Valor",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "8 Apr, 2009"
+  },
+  {
+    "appid": 20820,
+    "name": "Shatter",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "15 Mar, 2010"
+  },
+  {
+    "appid": 21100,
+    "name": "F.E.A.R. 3",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "21 Jun, 2011"
+  },
+  {
+    "appid": 21130,
+    "name": "LEGO\u00ae Harry Potter: Years 1-4",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "25 Jun, 2010"
+  },
+  {
+    "appid": 21670,
+    "name": "Bionic Commando",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "28 Jul, 2009"
+  },
+  {
+    "appid": 21690,
+    "name": "Resident Evil 5",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "15 Sep, 2009"
+  },
+  {
+    "appid": 22230,
+    "name": "Rock of Ages",
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing",
+      "Strategy"
+    ],
+    "release_date": "7 Sep, 2011"
+  },
+  {
+    "appid": 22350,
+    "name": "BRINK",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "9 May, 2011"
+  },
+  {
+    "appid": 22600,
+    "name": "Worms Reloaded",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "26 Aug, 2010"
+  },
+  {
+    "appid": 23530,
+    "name": "Earth Defense Force: Insect Armageddon",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Dec, 2011"
+  },
+  {
+    "appid": 23700,
+    "name": "Puzzle Kingdoms",
+    "genres": [
+      "Casual"
+    ],
+    "release_date": "27 Apr, 2009"
+  },
+  {
+    "appid": 24240,
+    "name": "PAYDAY\u2122 The Heist",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "20 Oct, 2011"
+  },
+  {
+    "appid": 24670,
+    "name": "Trainz\u2122 Simulator 12",
+    "genres": [
+      "Simulation"
+    ],
+    "release_date": "8 Jun, 2011"
+  },
+  {
+    "appid": 24740,
+    "name": "Burnout Paradise: The Ultimate Box",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "12 Mar, 2009"
+  },
+  {
+    "appid": 24810,
+    "name": "Command & Conquer\u2122 3: Kane\u2019s Wrath",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "13 Nov, 2009"
+  },
+  {
+    "appid": 24960,
+    "name": "Battlefield: Bad Company\u2122 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2 Mar, 2010"
+  },
+  {
+    "appid": 25800,
+    "name": "Europa Universalis III Complete",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "4 Feb, 2009"
+  },
+  {
+    "appid": 25850,
+    "name": "Elven Legacy",
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "7 Apr, 2009"
+  },
+  {
+    "appid": 25990,
+    "name": "Majesty Gold HD",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "4 Sep, 2009"
+  },
+  {
+    "appid": 27330,
+    "name": "Blacklight: Tango Down",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Jul, 2010"
+  },
+  {
+    "appid": 27940,
+    "name": "Dead Horde",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "27 Jul, 2011"
+  },
+  {
+    "appid": 28000,
+    "name": "Kane & Lynch 2: Dog Days",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "17 Aug, 2010"
+  },
+  {
+    "appid": 29900,
+    "name": "Dark Sector",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "24 Mar, 2009"
+  },
+  {
+    "appid": 32380,
+    "name": "STAR WARS\u2122 Jedi Knight: Dark Forces II",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Sep, 2009"
+  },
+  {
+    "appid": 32390,
+    "name": "STAR WARS\u2122 Jedi Knight - Mysteries of the Sith\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Sep, 2009"
+  },
+  {
+    "appid": 32440,
+    "name": "LEGO\u00ae Star Wars\u2122 - The Complete Saga",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "12 Nov, 2009"
+  },
+  {
+    "appid": 32470,
+    "name": "STAR WARS\u2122 Empire at War - Gold Pack",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "25 May, 2010"
+  },
+  {
+    "appid": 32510,
+    "name": "LEGO\u00ae Star Wars\u2122 III - The Clone Wars\u2122",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "22 Mar, 2011"
+  },
+  {
+    "appid": 32800,
+    "name": "Lord of the Rings: War in the North",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "1 Nov, 2011"
+  },
+  {
+    "appid": 33900,
+    "name": "Arma 2",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 33910,
+    "name": "ARMA 2",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "29 Jun, 2009"
+  },
+  {
+    "appid": 33930,
+    "name": "Arma 2: Operation Arrowhead",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "29 Jun, 2010"
+  },
+  {
+    "appid": 34030,
+    "name": "Total War: NAPOLEON \u2013 Definitive Edition",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "25 Feb, 2010"
+  },
+  {
+    "appid": 34190,
+    "name": "Sonic & SEGA All-Stars Racing",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "3 Mar, 2010"
+  },
+  {
+    "appid": 34270,
+    "name": "SEGA Mega Drive and Genesis Classics",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "RPG"
+    ],
+    "release_date": "1 Jun, 2010"
+  },
+  {
+    "appid": 34330,
+    "name": "Total War: SHOGUN 2",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "15 Mar, 2011"
+  },
+  {
+    "appid": 34440,
+    "name": "Sid Meier's Civilization\u00ae IV",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "25 Oct, 2006"
+  },
+  {
+    "appid": 34830,
+    "name": "Sniper: Ghost Warrior",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "24 Jun, 2010"
+  },
+  {
+    "appid": 34870,
+    "name": "Sniper: Ghost Warrior 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Mar, 2013"
+  },
+  {
+    "appid": 35130,
+    "name": "Lara Croft and the Guardian of Light",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "28 Sep, 2010"
+  },
+  {
+    "appid": 35420,
+    "name": "Defence Alliance 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Dec, 2009"
+  },
+  {
+    "appid": 35700,
+    "name": "Trine Enchanted Edition",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "2 Jul, 2009"
+  },
+  {
+    "appid": 38420,
+    "name": "Fallout Tactics: Brotherhood of Steel",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "19 Aug, 2009"
+  },
+  {
+    "appid": 39000,
+    "name": "Moonbase Alpha",
+    "genres": [
+      "Adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "6 Jul, 2010"
+  },
+  {
+    "appid": 39160,
+    "name": "Dungeon Siege III",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "20 Jun, 2011"
+  },
+  {
+    "appid": 40100,
+    "name": "Supreme Commander 2",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "1 Mar, 2010"
+  },
+  {
+    "appid": 40500,
+    "name": "Sacraboar",
+    "genres": [
+      "Action",
+      "Strategy",
+      "Indie"
+    ],
+    "release_date": "6 Nov, 2009"
+  },
+  {
+    "appid": 41000,
+    "name": "Serious Sam HD: The First Encounter",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "Nov 24, 2009"
+  },
+  {
+    "appid": 41050,
+    "name": "Serious Sam Classic: The First Encounter",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "30 Aug, 2019"
+  },
+  {
+    "appid": 41060,
+    "name": "Serious Sam Classic: The Second Encounter",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "30 Aug, 2019"
+  },
+  {
+    "appid": 41700,
+    "name": "S.T.A.L.K.E.R.: Call of Pripyat",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "11 Feb, 2010"
+  },
+  {
+    "appid": 41800,
+    "name": "Gratuitous Space Battles",
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "16 Nov, 2009"
+  },
+  {
+    "appid": 42680,
+    "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "8 Nov, 2011"
+  },
+  {
+    "appid": 42700,
+    "name": "Call of Duty\u00ae: Black Ops",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "9 Nov, 2010"
+  },
+  {
+    "appid": 42710,
+    "name": "Call of Duty\u00ae: Black Ops",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "9 Nov, 2010"
+  },
+  {
+    "appid": 42960,
+    "name": "Victoria II",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "30 Aug, 2010"
+  },
+  {
+    "appid": 43000,
+    "name": "Front Mission Evolved",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "28 Sep, 2010"
+  },
+  {
+    "appid": 43190,
+    "name": "The Haunted: Hells Reach",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "24 Oct, 2011"
+  },
+  {
+    "appid": 44340,
+    "name": "Operation Flashpoint: Red River",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 44350,
+    "name": "GRID 2",
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 45740,
+    "name": "Dead Rising\u00ae 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "Sep 27, 2010"
+  },
+  {
+    "appid": 45750,
+    "name": "Lost Planet\u00ae 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "15 Oct, 2010"
+  },
+  {
+    "appid": 45760,
+    "name": "Ultra Street Fighter\u00ae IV",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "7 Aug, 2014"
+  },
+  {
+    "appid": 45770,
+    "name": "Dead Rising 2: Off the Record",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "Oct 11, 2011"
+  },
+  {
+    "appid": 46540,
+    "name": "Trapped Dead",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "15 Jul, 2011"
+  },
+  {
+    "appid": 47540,
+    "name": "Puzzle Quest 2",
+    "genres": [
+      "RPG",
+      "Casual"
+    ],
+    "release_date": "12 Aug, 2010"
+  },
+  {
+    "appid": 47700,
+    "name": "Command & Conquer\u2122 4 Tiberian Twilight",
+    "genres": [
+      "Adventure",
+      "Strategy"
+    ],
+    "release_date": "16 Mar, 2010"
+  },
+  {
+    "appid": 47780,
+    "name": "Dead Space\u2122 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "25 Jan, 2011"
+  },
+  {
+    "appid": 47790,
+    "name": "Medal of Honor\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Oct, 2010"
+  },
+  {
+    "appid": 47830,
+    "name": "Medal of Honor\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Oct, 2010"
+  },
+  {
+    "appid": 48160,
+    "name": "Tom Clancy's H.A.W.X.\u00ae 2",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "release_date": "22 Nov, 2010"
+  },
+  {
+    "appid": 48190,
+    "name": "Assassin\u2019s Creed\u00ae Brotherhood",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "22 Mar, 2011"
+  },
+  {
+    "appid": 48700,
+    "name": "Mount & Blade: Warband",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "31 Mar, 2010"
+  },
+  {
+    "appid": 48720,
+    "name": "Mount & Blade: With Fire & Sword",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "3 May, 2011"
+  },
+  {
+    "appid": 49470,
+    "name": "Magic: The Gathering - Duels of the Planeswalkers 2012",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "15 Jun, 2011"
+  },
+  {
+    "appid": 49520,
+    "name": "Borderlands 2",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "17 Sep, 2012"
+  },
+  {
+    "appid": 55000,
+    "name": "Flotilla",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "29 Apr, 2010"
+  },
+  {
+    "appid": 55040,
+    "name": "Atom Zombie Smasher",
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "14 Mar, 2011"
+  },
+  {
+    "appid": 55100,
+    "name": "Homefront",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Mar, 2011"
+  },
+  {
+    "appid": 55110,
+    "name": "Red Faction\u00ae: Armageddon\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "6 Jun, 2011"
+  },
+  {
+    "appid": 55140,
+    "name": "MX vs. ATV Reflex",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "26 Nov, 2010"
+  },
+  {
+    "appid": 55150,
+    "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "Sep 5, 2011"
+  },
+  {
+    "appid": 55230,
+    "name": "Saints Row: The Third",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Nov, 2011"
+  },
+  {
+    "appid": 56400,
+    "name": "Warhammer 40,000: Dawn of War II: Retribution",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 58520,
+    "name": "Blood Bowl - Legendary Edition",
+    "genres": [
+      "Sports",
+      "Strategy"
+    ],
+    "release_date": "28 Oct, 2010"
+  },
+  {
+    "appid": 58610,
+    "name": "Wargame: European Escalation",
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "22 Feb, 2012"
+  },
+  {
+    "appid": 61510,
+    "name": "Age of Wonders II: The Wizard's Throne",
+    "genres": [
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "12 Oct, 2010"
+  },
+  {
+    "appid": 63200,
+    "name": "Monday Night Combat",
+    "genres": [
+      "Action",
+      "Strategy",
+      "Indie",
+      "Sports"
+    ],
+    "release_date": "24 Jan, 2011"
+  },
+  {
+    "appid": 63380,
+    "name": "Sniper Elite V2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 63500,
+    "name": "Swords and Soldiers HD",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "2 Dec, 2010"
+  },
+  {
+    "appid": 63800,
+    "name": "Delve Deeper",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "24 Sep, 2010"
+  },
+  {
+    "appid": 63900,
+    "name": "Fantasy Wars",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "6 Aug, 2010"
+  },
+  {
+    "appid": 63940,
+    "name": "Men of War: Vietnam",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "8 Sep, 2011"
+  },
+  {
+    "appid": 64000,
+    "name": "Men of War: Assault Squad",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "24 Feb, 2011"
+  },
+  {
+    "appid": 65700,
+    "name": "Arma 2: British Armed Forces",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "27 Aug, 2010"
+  },
+  {
+    "appid": 65720,
+    "name": "Arma 2: Private Military Company",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "30 Nov, 2010"
+  },
+  {
+    "appid": 65730,
+    "name": "Take On Helicopters",
+    "genres": [
+      "Simulation"
+    ],
+    "release_date": "27 Oct, 2011"
+  },
+  {
+    "appid": 65780,
+    "name": "ARMA: Gold Edition",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "13 Jul, 2011"
+  },
+  {
+    "appid": 65800,
+    "name": "Dungeon Defenders",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "18 Oct, 2011"
+  },
+  {
+    "appid": 65980,
+    "name": "Sid Meier's Civilization\u00ae: Beyond Earth\u2122",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "23 Oct, 2014"
+  },
+  {
+    "appid": 67370,
+    "name": "The Darkness II",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "9 Feb, 2012"
+  },
+  {
+    "appid": 70000,
+    "name": "Dino D-Day",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "8 Apr, 2011"
+  },
+  {
+    "appid": 70600,
+    "name": "Worms Ultimate Mayhem",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "28 Sep, 2011"
+  },
+  {
+    "appid": 71000,
+    "name": "Evochron Mercenary",
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "release_date": "16 Jan, 2012"
+  },
+  {
+    "appid": 71260,
+    "name": "Space Channel 5: Part 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "4 Mar, 2011"
+  },
+  {
+    "appid": 73060,
+    "name": "Defenders of Ardania",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "14 Mar, 2012"
+  },
+  {
+    "appid": 73170,
+    "name": "Darkest Hour: A Hearts of Iron Game",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "8 Apr, 2011"
+  },
+  {
+    "appid": 73230,
+    "name": "Majesty Gold HD",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "4 Sep, 2009"
+  },
+  {
+    "appid": 91700,
+    "name": "E.Y.E: Divine Cybermancy",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "29 Jul, 2011"
+  },
+  {
+    "appid": 94200,
+    "name": "Jamestown",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "8 Jun, 2011"
+  },
+  {
+    "appid": 96200,
+    "name": "Steel Storm: Burning Retribution",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "11 May, 2011"
+  },
+  {
+    "appid": 98200,
+    "name": "Frozen Synapse",
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "26 May, 2011"
+  },
+  {
+    "appid": 98500,
+    "name": "Naval Warfare",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "25 May, 2011"
+  },
+  {
+    "appid": 98510,
+    "name": "STORM: Frontline Nation",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "10 Jun, 2011"
+  },
+  {
+    "appid": 102840,
+    "name": "Shank 2",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "7 Feb, 2012"
+  },
+  {
+    "appid": 104900,
+    "name": "ORION: Prelude",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "16 Apr, 2013"
+  },
+  {
+    "appid": 105450,
+    "name": "Age of Empires\u00ae III (2007)",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "5 Jan, 2012"
+  },
+  {
+    "appid": 105600,
+    "name": "Terraria",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "May 16, 2011"
+  },
+  {
+    "appid": 107410,
+    "name": "Arma 3",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "12 Sep, 2013"
+  },
+  {
+    "appid": 111400,
+    "name": "Bunch of Heroes",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "21 Sep, 2011"
+  },
+  {
+    "appid": 111900,
+    "name": "Guardians of Middle-earth",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "29 Aug, 2013"
+  },
+  {
+    "appid": 200170,
+    "name": "Worms Revolution",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "10 Oct, 2012"
+  },
+  {
+    "appid": 201290,
+    "name": "Sins of a Solar Empire: Trinity\u00ae",
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "16 Nov, 2011"
+  },
+  {
+    "appid": 201570,
+    "name": "Really Big Sky",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "24 Feb, 2012"
+  },
+  {
+    "appid": 201790,
+    "name": "Orcs Must Die! 2",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "30 Jul, 2012"
+  },
+  {
+    "appid": 201870,
+    "name": "Assassin's Creed\u00ae Revelations",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "29 Nov, 2011"
+  },
+  {
+    "appid": 202970,
+    "name": "Call of Duty\u00ae: Black Ops II",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Nov, 2012"
+  },
+  {
+    "appid": 202990,
+    "name": "Call of Duty\u00ae: Black Ops II",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Nov, 2012"
+  },
+  {
+    "appid": 203160,
+    "name": "Tomb Raider",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "4 Mar, 2013"
+  },
+  {
+    "appid": 203290,
+    "name": "America's Army: Proving Grounds",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "29 Aug, 2013"
+  },
+  {
+    "appid": 203630,
+    "name": "Warlock - Master of the Arcane",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "8 May, 2012"
+  },
+  {
+    "appid": 203770,
+    "name": "Crusader Kings II",
+    "genres": [
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "release_date": "14 Feb, 2012"
+  },
+  {
+    "appid": 204100,
+    "name": "Max Payne 3",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "May 31, 2012"
+  },
+  {
+    "appid": 204120,
+    "name": "LEGO\u00ae Harry Potter: Years 5-7",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "5 Jan, 2012"
+  },
+  {
+    "appid": 204300,
+    "name": "Awesomenauts - the 2D moba",
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "release_date": "1 Aug, 2012"
+  },
+  {
+    "appid": 204340,
+    "name": "Serious Sam 2",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "31 Jan, 2012"
+  },
+  {
+    "appid": 204360,
+    "name": "Castle Crashers\u00ae",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "26 Sep, 2012"
+  },
+  {
+    "appid": 204560,
+    "name": "Confrontation",
+    "genres": [
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "4 Apr, 2012"
+  },
+  {
+    "appid": 204880,
+    "name": "Sins of a Solar Empire\u00ae: Rebellion",
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "12 Jun, 2012"
+  },
+  {
+    "appid": 204940,
+    "name": "Crusader Kings Complete",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "14 Feb, 2012"
+  },
+  {
+    "appid": 205350,
+    "name": "Mortal Kombat Kollection",
+    "genres": [
+      "Action"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 205730,
+    "name": "Insanely Twisted Shadow Planet",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "17 Apr, 2012"
+  },
+  {
+    "appid": 206210,
+    "name": "Gotham City Impostors Free to Play",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "30 Aug, 2012"
+  },
+  {
+    "appid": 206500,
+    "name": "AirMech",
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "release_date": "30 Mar, 2018"
+  },
+  {
+    "appid": 207930,
+    "name": "Sacred Citadel",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "16 Apr, 2013"
+  },
+  {
+    "appid": 208090,
+    "name": "Loadout",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie"
+    ],
+    "release_date": "31 Jan, 2014"
+  },
+  {
+    "appid": 208200,
+    "name": "DOOM 3",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "15 Oct, 2012"
+  },
+  {
+    "appid": 208480,
+    "name": "Assassin\u2019s Creed\u00ae III",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "20 Nov, 2012"
+  },
+  {
+    "appid": 208670,
+    "name": "Blades of Time",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "20 Apr, 2012"
+  },
+  {
+    "appid": 209080,
+    "name": "Guns of Icarus Online",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_date": "29 Oct, 2012"
+  },
+  {
+    "appid": 209160,
+    "name": "Call of Duty\u00ae: Ghosts",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "25 Mar, 2014"
+  },
+  {
+    "appid": 209170,
+    "name": "Call of Duty\u00ae: Ghosts",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "25 Mar, 2014"
+  },
+  {
+    "appid": 209650,
+    "name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "3 Nov, 2014"
+  },
+  {
+    "appid": 209660,
+    "name": "Call of Duty\u00ae: Advanced Warfare - Gold Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "3 Nov, 2014"
+  },
+  {
+    "appid": 209670,
+    "name": "Cortex Command",
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "28 Sep, 2012"
+  },
+  {
+    "appid": 209730,
+    "name": "R.A.W. Realms of Ancient War",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "11 Oct, 2012"
+  },
+  {
+    "appid": 209870,
+    "name": "Blacklight: Retribution",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "2 Jul, 2012"
+  },
+  {
+    "appid": 210770,
+    "name": "Sanctum 2",
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "15 May, 2013"
+  },
+  {
+    "appid": 211420,
+    "name": "DARK SOULS\u2122: Prepare To Die\u2122 Edition",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "24 Aug, 2012"
+  },
+  {
+    "appid": 211440,
+    "name": "Adventures of Shuggy",
+    "genres": [
+      "Indie"
+    ],
+    "release_date": "13 Jun, 2012"
+  },
+  {
+    "appid": 211580,
+    "name": "Wanderlust: Rebirth",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "27 Jul, 2012"
+  },
+  {
+    "appid": 212480,
+    "name": "Sonic & All-Stars Racing Transformed Collection",
+    "genres": [
+      "Racing",
+      "Sports"
+    ],
+    "release_date": "31 Jan, 2013"
+  },
+  {
+    "appid": 212630,
+    "name": "Tom Clancy's Ghost Recon: Future Soldier\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "26 Jun, 2012"
+  },
+  {
+    "appid": 213610,
+    "name": "Sonic Adventure 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "Nov 19, 2012"
+  },
+  {
+    "appid": 214190,
+    "name": "Minimum",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "10 Sep, 2014"
+  },
+  {
+    "appid": 214510,
+    "name": "LEGO\u00ae The Lord of the Rings\u2122",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "27 Nov, 2012"
+  },
+  {
+    "appid": 214830,
+    "name": "Half Minute Hero: Super Mega Neo Climax Ultimate Boy",
+    "genres": [
+      "Action",
+      "Casual",
+      "RPG"
+    ],
+    "release_date": "27 Sep, 2012"
+  },
+  {
+    "appid": 214950,
+    "name": "Total War: ROME II - Emperor Edition",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "2 Sep, 2013"
+  },
+  {
+    "appid": 215690,
+    "name": "Zeno Clash 2",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "30 Apr, 2013"
+  },
+  {
+    "appid": 217200,
+    "name": "Worms Armageddon",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "19 Mar, 2013"
+  },
+  {
+    "appid": 217920,
+    "name": "Alien Rage - Unlimited",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "24 Sep, 2013"
+  },
+  {
+    "appid": 218620,
+    "name": "PAYDAY 2",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "13 Aug, 2013"
+  },
+  {
+    "appid": 218740,
+    "name": "Pid",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "31 Oct, 2012"
+  },
+  {
+    "appid": 219640,
+    "name": "Chivalry: Medieval Warfare",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "16 Oct, 2012"
+  },
+  {
+    "appid": 220160,
+    "name": "Trials Evolution: Gold Edition",
+    "genres": [
+      "Action",
+      "Racing"
+    ],
+    "release_date": "21 Mar, 2013"
+  },
+  {
+    "appid": 220240,
+    "name": "Far Cry 3",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "4 Dec, 2012"
+  },
+  {
+    "appid": 221040,
+    "name": "Resident Evil 6",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "21 Mar, 2013"
+  },
+  {
+    "appid": 221380,
+    "name": "Age of Empires II (Retired)",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "9 Apr, 2013"
+  },
+  {
+    "appid": 221680,
+    "name": "Rocksmith\u00ae 2014 Edition REMASTERED LEARN & PLAY",
+    "genres": [
+      "Casual",
+      "Simulation"
+    ],
+    "release_date": "19 Dec, 2024"
+  },
+  {
+    "appid": 222480,
+    "name": "Resident Evil Revelations",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "20 May, 2013"
+  },
+  {
+    "appid": 222900,
+    "name": "Dead Island: Epidemic",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Early Access"
+    ],
+    "release_date": "20 Nov, 2014"
+  },
+  {
+    "appid": 222980,
+    "name": "Dead Pixels",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "7 Dec, 2012"
+  },
+  {
+    "appid": 223100,
+    "name": "Homefront\u00ae: The Revolution",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "17 May, 2016"
+  },
+  {
+    "appid": 223710,
+    "name": "Cry of Fear",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "25 Apr, 2013"
+  },
+  {
+    "appid": 224480,
+    "name": "Octodad: Dadliest Catch",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "30 Jan, 2014"
+  },
+  {
+    "appid": 224580,
+    "name": "Arma II: DayZ Mod",
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "21 Feb, 2013"
+  },
+  {
+    "appid": 225260,
+    "name": "Brutal Legend",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "release_date": "26 Feb, 2013"
+  },
+  {
+    "appid": 227100,
+    "name": "Sniper Elite: Nazi Zombie Army",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "28 Feb, 2013"
+  },
+  {
+    "appid": 227480,
+    "name": "God Mode",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "19 Apr, 2013"
+  },
+  {
+    "appid": 228200,
+    "name": "Company of Heroes",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "11 Sep, 2006"
+  },
+  {
+    "appid": 228400,
+    "name": "Ace Combat Assault Horizon - Enhanced Edition",
+    "genres": [
+      "Action",
+      "Simulation"
+    ],
+    "release_date": "25 Jan, 2013"
+  },
+  {
+    "appid": 231430,
+    "name": "Company of Heroes 2",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "25 Jun, 2013"
+  },
+  {
+    "appid": 232090,
+    "name": "Killing Floor 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "18 Nov, 2016"
+  },
+  {
+    "appid": 232970,
+    "name": "Thunder Wolves",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "15 May, 2013"
+  },
+  {
+    "appid": 233980,
+    "name": "UnEpic",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "25 Jul, 2014"
+  },
+  {
+    "appid": 234630,
+    "name": "Project CARS",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "6 May, 2015"
+  },
+  {
+    "appid": 235540,
+    "name": "Warhammer: End Times - Vermintide",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "23 Oct, 2015"
+  },
+  {
+    "appid": 235600,
+    "name": "Tom Clancy\u2019s Splinter Cell Blacklist",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "20 Aug, 2013"
+  },
+  {
+    "appid": 237110,
+    "name": "Mortal Kombat Komplete Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 238210,
+    "name": "System Shock\u00ae 2 (Classic)",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "10 May, 2013"
+  },
+  {
+    "appid": 238240,
+    "name": "Edge of Space",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "17 Sep, 2015"
+  },
+  {
+    "appid": 238430,
+    "name": "Contagion",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "25 Oct, 2013"
+  },
+  {
+    "appid": 239140,
+    "name": "Dying Light",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "27 Jan, 2025"
+  },
+  {
+    "appid": 240970,
+    "name": "Half Minute Hero: The Second Coming",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "4 Apr, 2014"
+  },
+  {
+    "appid": 242050,
+    "name": "Assassin\u2019s Creed\u00ae IV Black Flag\u2122",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 242110,
+    "name": "Joe Danger 2: The Movie",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "release_date": "24 Jun, 2013"
+  },
+  {
+    "appid": 242680,
+    "name": "Nuclear Throne",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "5 Dec, 2015"
+  },
+  {
+    "appid": 242700,
+    "name": "Injustice: Gods Among Us Ultimate Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Nov, 2013"
+  },
+  {
+    "appid": 242880,
+    "name": "Sir, You Are Being Hunted",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "2 May, 2014"
+  },
+  {
+    "appid": 243470,
+    "name": "Watch_Dogs\u2122",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "26 May, 2014"
+  },
+  {
+    "appid": 243870,
+    "name": "Tom Clancy's Ghost Recon Phantoms - NA",
+    "genres": [
+      "Free To Play"
+    ],
+    "release_date": "10 Apr, 2014"
+  },
+  {
+    "appid": 244070,
+    "name": "Sid Meier\u2019s Ace Patrol",
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "release_date": "27 Aug, 2013"
+  },
+  {
+    "appid": 244090,
+    "name": "Sid Meier\u2019s Ace Patrol: Pacific Skies",
+    "genres": [
+      "Casual",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 244160,
+    "name": "Homeworld Remastered Collection",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "25 Feb, 2015"
+  },
+  {
+    "appid": 244730,
+    "name": "Divekick",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "20 Aug, 2013"
+  },
+  {
+    "appid": 245490,
+    "name": "Trials Fusion\u2122",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "24 Apr, 2014"
+  },
+  {
+    "appid": 246580,
+    "name": "The Typing of The Dead: Overkill",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "29 Oct, 2013"
+  },
+  {
+    "appid": 249130,
+    "name": "LEGO\u00ae Marvel\u2122 Super Heroes",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "22 Oct, 2013"
+  },
+  {
+    "appid": 250340,
+    "name": "Blockland",
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation"
+    ],
+    "release_date": "16 Dec, 2013"
+  },
+  {
+    "appid": 250900,
+    "name": "The Binding of Isaac: Rebirth",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "4 Nov, 2014"
+  },
+  {
+    "appid": 252730,
+    "name": "YOU DON'T KNOW JACK Vol. 1 XL",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 253900,
+    "name": "Knights and Merchants",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "14 Oct, 2013"
+  },
+  {
+    "appid": 254440,
+    "name": "Pool Nation",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Sports",
+      "Strategy"
+    ],
+    "release_date": "18 Oct, 2013"
+  },
+  {
+    "appid": 255070,
+    "name": "Abyss Odyssey",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "15 Jul, 2014"
+  },
+  {
+    "appid": 255870,
+    "name": "PixelJunk\u2122 Shooter",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Nov, 2013"
+  },
+  {
+    "appid": 256290,
+    "name": "Child of Light",
+    "genres": [
+      "RPG"
+    ],
+    "release_date": "29 Apr, 2014"
+  },
+  {
+    "appid": 256330,
+    "name": "WRC 4 FIA World Rally Championship",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "25 Oct, 2013"
+  },
+  {
+    "appid": 259320,
+    "name": "Heli Heroes",
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "release_date": "1 Nov, 2013"
+  },
+  {
+    "appid": 259340,
+    "name": "Chicken Shoot Gold",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "1 Nov, 2003"
+  },
+  {
+    "appid": 259940,
+    "name": "YOU DON'T KNOW JACK Vol. 2",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 259960,
+    "name": "YOU DON'T KNOW JACK Vol. 3",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 259980,
+    "name": "YOU DON'T KNOW JACK Vol. 4 The Ride",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 260000,
+    "name": "YOU DON'T KNOW JACK MOVIES",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 260020,
+    "name": "YOU DON'T KNOW JACK SPORTS",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 260040,
+    "name": "YOU DON'T KNOW JACK TELEVISION",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 260060,
+    "name": "YOU DON'T KNOW JACK HEADRUSH",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "5 Nov, 2013"
+  },
+  {
+    "appid": 261640,
+    "name": "Borderlands: The Pre-Sequel",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "13 Oct, 2014"
+  },
+  {
+    "appid": 265170,
+    "name": "Acceleration of SUGURI X-Edition HD",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "1 Jul, 2014"
+  },
+  {
+    "appid": 265550,
+    "name": "Dead Rising 3 Apocalypse Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "5 Sep, 2014"
+  },
+  {
+    "appid": 265930,
+    "name": "Goat Simulator",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_date": "1 Apr, 2014"
+  },
+  {
+    "appid": 266310,
+    "name": "GameGuru Classic",
+    "genres": [
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Education",
+      "Software Training",
+      "Utilities",
+      "Game Development"
+    ],
+    "release_date": "19 May, 2015"
+  },
+  {
+    "appid": 266430,
+    "name": "Anarchy Arcade",
+    "genres": [
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Early Access"
+    ],
+    "release_date": "3 Sep, 2014"
+  },
+  {
+    "appid": 268750,
+    "name": "Magicite",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "9 Jun, 2014"
+  },
+  {
+    "appid": 271590,
+    "name": "Grand Theft Auto V Legacy",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "13 Apr, 2015"
+  },
+  {
+    "appid": 272890,
+    "name": "Vertiginous Golf",
+    "genres": [
+      "Indie",
+      "Sports"
+    ],
+    "release_date": "6 May, 2015"
+  },
+  {
+    "appid": 273350,
+    "name": "Evolve Stage 2",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "10 Feb, 2015"
+  },
+  {
+    "appid": 273620,
+    "name": "Freespace 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "6 Jun, 2014"
+  },
+  {
+    "appid": 274940,
+    "name": "Depth",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "3 Nov, 2014"
+  },
+  {
+    "appid": 275200,
+    "name": "Westerado: Double Barreled",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "16 Apr, 2015"
+  },
+  {
+    "appid": 282440,
+    "name": "Quake Live",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "17 Sep, 2014"
+  },
+  {
+    "appid": 283640,
+    "name": "Salt and Sanctuary",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "17 May, 2016"
+  },
+  {
+    "appid": 285160,
+    "name": "LEGO\u00ae The Hobbit\u2122",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "8 Apr, 2014"
+  },
+  {
+    "appid": 285580,
+    "name": "ACE - Arena: Cyber Evolution",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie",
+      "Sports",
+      "Strategy",
+      "Early Access"
+    ],
+    "release_date": "18 Aug, 2014"
+  },
+  {
+    "appid": 287290,
+    "name": "Resident Evil Revelations 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "24 Feb, 2015"
+  },
+  {
+    "appid": 289650,
+    "name": "Assassin's Creed\u00ae Unity",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "11 Nov, 2014"
+  },
+  {
+    "appid": 289690,
+    "name": "LARA CROFT AND THE TEMPLE OF OSIRIS\u2122",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "8 Dec, 2014"
+  },
+  {
+    "appid": 290790,
+    "name": "Grey Goo",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "23 Jan, 2015"
+  },
+  {
+    "appid": 292480,
+    "name": "Magical Battle Festa",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "21 Nov, 2014"
+  },
+  {
+    "appid": 292730,
+    "name": "Call of Duty\u00ae: Infinite Warfare",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "3 Nov, 2016"
+  },
+  {
+    "appid": 293760,
+    "name": "Automation - The Car Company Tycoon Game",
+    "genres": [
+      "Indie",
+      "Racing",
+      "Simulation",
+      "Strategy",
+      "Early Access"
+    ],
+    "release_date": "12 Mar, 2015"
+  },
+  {
+    "appid": 298110,
+    "name": "Far Cry\u00ae 4",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "17 Nov, 2014"
+  },
+  {
+    "appid": 301120,
+    "name": "Eastside Hockey Manager",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "1 Dec, 2015"
+  },
+  {
+    "appid": 302510,
+    "name": "Ryse: Son of Rome",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "10 Oct, 2014"
+  },
+  {
+    "appid": 304390,
+    "name": "FOR HONOR\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Mar, 2024"
+  },
+  {
+    "appid": 307290,
+    "name": "Velvet Sundown",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "22 Jul, 2014"
+  },
+  {
+    "appid": 307590,
+    "name": "Penarium",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "22 Sep, 2015"
+  },
+  {
+    "appid": 307780,
+    "name": "Mortal Kombat X",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "13 Apr, 2015"
+  },
+  {
+    "appid": 310560,
+    "name": "DiRT Rally",
+    "genres": [
+      "Racing",
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "7 Dec, 2015"
+  },
+  {
+    "appid": 311210,
+    "name": "Call of Duty\u00ae: Black Ops III",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "5 Nov, 2015"
+  },
+  {
+    "appid": 311690,
+    "name": "Enter the Gungeon",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "5 Apr, 2016"
+  },
+  {
+    "appid": 312660,
+    "name": "Sniper Elite 4",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "13 Feb, 2017"
+  },
+  {
+    "appid": 312990,
+    "name": "The Expendabros",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "release_date": "5 Aug, 2014"
+  },
+  {
+    "appid": 314520,
+    "name": "Euro Fishing",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "2 Nov, 2015"
+  },
+  {
+    "appid": 315430,
+    "name": "Polarity",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "15 Jul, 2016"
+  },
+  {
+    "appid": 324800,
+    "name": "Shadow Warrior 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "13 Oct, 2016"
+  },
+  {
+    "appid": 327030,
+    "name": "Worms W.M.D",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "23 Aug, 2016"
+  },
+  {
+    "appid": 329460,
+    "name": "JumpJet Rex",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Racing"
+    ],
+    "release_date": "21 Apr, 2015"
+  },
+  {
+    "appid": 331600,
+    "name": "One Piece Pirate Warriors 3",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "27 Aug, 2015"
+  },
+  {
+    "appid": 335300,
+    "name": "DARK SOULS\u2122 II: Scholar of the First Sin",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "1 Apr, 2015"
+  },
+  {
+    "appid": 335330,
+    "name": "Brick-Force",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "11 Dec, 2014"
+  },
+  {
+    "appid": 342180,
+    "name": "Arizona Sunshine\u00ae",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "release_date": "6 Dec, 2016"
+  },
+  {
+    "appid": 345260,
+    "name": "Medieval: Total War\u2122 - Collection",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "25 Jun, 2015"
+  },
+  {
+    "appid": 345520,
+    "name": "Infinite Crisis\u2122",
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Strategy"
+    ],
+    "release_date": "26 Mar, 2015"
+  },
+  {
+    "appid": 349580,
+    "name": "Burstfire",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "24 Sep, 2015"
+  },
+  {
+    "appid": 351250,
+    "name": "Avalanche 2: Super Avalanche",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "11 Jun, 2015"
+  },
+  {
+    "appid": 351970,
+    "name": "Tales of Zestiria",
+    "genres": [
+      "RPG"
+    ],
+    "release_date": "19 Oct, 2015"
+  },
+  {
+    "appid": 351990,
+    "name": "Riff Racer - Race Your Music!",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "release_date": "12 May, 2016"
+  },
+  {
+    "appid": 355800,
+    "name": "Space Run Galaxy",
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "17 Jun, 2016"
+  },
+  {
+    "appid": 356570,
+    "name": "Party Hard",
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "25 Aug, 2015"
+  },
+  {
+    "appid": 357480,
+    "name": "Frozen Free Fall: Snowball Fight",
+    "genres": [
+      "Casual",
+      "Free To Play"
+    ],
+    "release_date": "15 Sep, 2015"
+  },
+  {
+    "appid": 359550,
+    "name": "Tom Clancy's Rainbow Six\u00ae Siege",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "1 Dec, 2015"
+  },
+  {
+    "appid": 361300,
+    "name": "Mother Russia Bleeds",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "5 Sep, 2016"
+  },
+  {
+    "appid": 365590,
+    "name": "Tom Clancy\u2019s The Division\u2122",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "7 Mar, 2016"
+  },
+  {
+    "appid": 366440,
+    "name": "Savage Resurrection",
+    "genres": [
+      "Action",
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "18 Aug, 2016"
+  },
+  {
+    "appid": 374320,
+    "name": "DARK SOULS\u2122 III",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Apr, 2016"
+  },
+  {
+    "appid": 379720,
+    "name": "DOOM",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 May, 2016"
+  },
+  {
+    "appid": 383150,
+    "name": "Dead Island Definitive Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "31 May, 2016"
+  },
+  {
+    "appid": 383180,
+    "name": "Dead Island: Riptide Definitive Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "May 31, 2016"
+  },
+  {
+    "appid": 385760,
+    "name": "NBA 2K17",
+    "genres": [
+      "Sports"
+    ],
+    "release_date": "20 Sep, 2016"
+  },
+  {
+    "appid": 386880,
+    "name": "Rake",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_date": "13 Jul, 2015"
+  },
+  {
+    "appid": 394510,
+    "name": "HELLDIVERS\u2122 Dive Harder Edition",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "7 Dec, 2015"
+  },
+  {
+    "appid": 397100,
+    "name": "MachineCraft",
+    "genres": [
+      "Free To Play",
+      "Indie",
+      "Simulation",
+      "Early Access"
+    ],
+    "release_date": "25 Mar, 2016"
+  },
+  {
+    "appid": 416690,
+    "name": "Oh...Sir! Prototype",
+    "genres": [
+      "Indie"
+    ],
+    "release_date": "21 Dec, 2015"
+  },
+  {
+    "appid": 419090,
+    "name": "Vector Strain",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "9 Dec, 2015"
+  },
+  {
+    "appid": 429660,
+    "name": "Tales of Berseria\u2122",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "26 Jan, 2017"
+  },
+  {
+    "appid": 434050,
+    "name": "Duke Nukem 3D: 20th Anniversary World Tour",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "11 Oct, 2016"
+  },
+  {
+    "appid": 438740,
+    "name": "Friday the 13th: The Game",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "25 May, 2017"
+  },
+  {
+    "appid": 447040,
+    "name": "Watch_Dogs\u00ae 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "28 Nov, 2016"
+  },
+  {
+    "appid": 476600,
+    "name": "Call of Duty\u00ae: WWII",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2 Nov, 2017"
+  },
+  {
+    "appid": 476620,
+    "name": "Call of Duty\u00ae: WWII",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "2 Nov, 2017"
+  },
+  {
+    "appid": 485510,
+    "name": "Nioh: Complete Edition",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "7 Nov, 2017"
+  },
+  {
+    "appid": 488280,
+    "name": "Gun Done",
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "13 Jun, 2016"
+  },
+  {
+    "appid": 492720,
+    "name": "Tropico 6",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "29 Mar, 2019"
+  },
+  {
+    "appid": 493370,
+    "name": "Ragnarok Clicker",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "3 Aug, 2016"
+  },
+  {
+    "appid": 502800,
+    "name": "SENRAN KAGURA ESTIVAL VERSUS",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "17 Mar, 2017"
+  },
+  {
+    "appid": 508790,
+    "name": "Flat Heroes",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "8 Sep, 2016"
+  },
+  {
+    "appid": 534380,
+    "name": "Dying Light 2 Stay Human: Reloaded Edition",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "3 Feb, 2022"
+  },
+  {
+    "appid": 536930,
+    "name": "MOBIUS FINAL FANTASY\u2122",
+    "genres": [
+      "Free To Play",
+      "RPG"
+    ],
+    "release_date": "5 Feb, 2017"
+  },
+  {
+    "appid": 543460,
+    "name": "Dead Rising 4",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Mar, 2017"
+  },
+  {
+    "appid": 543900,
+    "name": "METAL GEAR SURVIVE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "release_date": "21 Feb, 2018"
+  },
+  {
+    "appid": 550650,
+    "name": "Black Squad",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "26 Jun, 2019"
+  },
+  {
+    "appid": 552520,
+    "name": "Far Cry\u00ae 5",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "Mar 26, 2018"
+  },
+  {
+    "appid": 553850,
+    "name": "HELLDIVERS\u2122 2",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "8 Feb, 2024"
+  },
+  {
+    "appid": 570940,
+    "name": "DARK SOULS\u2122: REMASTERED",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "23 May, 2018"
+  },
+  {
+    "appid": 576480,
+    "name": "Drunken Fight Simulator",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "23 Feb, 2021"
+  },
+  {
+    "appid": 577800,
+    "name": "NBA 2K18",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": null
+  },
+  {
+    "appid": 581320,
+    "name": "Insurgency: Sandstorm",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Dec, 2018"
+  },
+  {
+    "appid": 594650,
+    "name": "Hunt: Showdown 1896",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "27 Aug, 2019"
+  },
+  {
+    "appid": 601150,
+    "name": "Devil May Cry 5",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "7 Mar, 2019"
+  },
+  {
+    "appid": 611500,
+    "name": "Quake Champions",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "18 Aug, 2022"
+  },
+  {
+    "appid": 617290,
+    "name": "Remnant: From the Ashes",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "19 Aug, 2019"
+  },
+  {
+    "appid": 620590,
+    "name": "Ancestors Legacy",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "22 May, 2018"
+  },
+  {
+    "appid": 622220,
+    "name": "Fate/EXTELLA LINK",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "19 Mar, 2019"
+  },
+  {
+    "appid": 623280,
+    "name": "Dungeons & Dragons: Dark Alliance",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "21 Jun, 2021"
+  },
+  {
+    "appid": 630640,
+    "name": "SEQUENCE STORM",
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "release_date": "21 Dec, 2018"
+  },
+  {
+    "appid": 637650,
+    "name": "FINAL FANTASY XV WINDOWS EDITION",
+    "genres": [
+      "RPG"
+    ],
+    "release_date": "6 Mar, 2018"
+  },
+  {
+    "appid": 638970,
+    "name": "Yakuza 0",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "1 Aug, 2018"
+  },
+  {
+    "appid": 640210,
+    "name": "Just One Line",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "12 Sep, 2018"
+  },
+  {
+    "appid": 644670,
+    "name": "DEUS VULT | Online VR sword fighting",
+    "genres": [
+      "Violent",
+      "Action",
+      "Simulation",
+      "Early Access"
+    ],
+    "release_date": "26 May, 2017"
+  },
+  {
+    "appid": 667720,
+    "name": "Red Faction Guerrilla Re-Mars-tered",
+    "genres": [],
+    "release_date": "3 Jul, 2018"
+  },
+  {
+    "appid": 678850,
+    "name": "Uurnog Uurnlimited",
+    "genres": [
+      "Indie"
+    ],
+    "release_date": "16 Nov, 2017"
+  },
+  {
+    "appid": 678960,
+    "name": "CODE VEIN",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "26 Sep, 2019"
+  },
+  {
+    "appid": 690810,
+    "name": "Killing Floor: Incursion",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "14 Nov, 2017"
+  },
+  {
+    "appid": 729040,
+    "name": "Borderlands Game of the Year Enhanced",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "31 Aug, 2023"
+  },
+  {
+    "appid": 741820,
+    "name": "Prey: Typhon Hunter",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Dec, 2018"
+  },
+  {
+    "appid": 774241,
+    "name": "Warhammer: Chaosbane",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "31 May, 2019"
+  },
+  {
+    "appid": 782330,
+    "name": "DOOM Eternal",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "19 Mar, 2020"
+  },
+  {
+    "appid": 816090,
+    "name": "Space Hulk: Deathwing Enhanced Edition",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "22 May, 2018"
+  },
+  {
+    "appid": 834530,
+    "name": "Yakuza Kiwami",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "19 Feb, 2019"
+  },
+  {
+    "appid": 897450,
+    "name": "The Survivalists",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "9 Oct, 2020"
+  },
+  {
+    "appid": 924970,
+    "name": "Back 4 Blood",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "12 Oct, 2021"
+  },
+  {
+    "appid": 934700,
+    "name": "Dead Island 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "22 Apr, 2024"
+  },
+  {
+    "appid": 939850,
+    "name": "The Dark Pictures Anthology: Man of Medan",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "29 Aug, 2019"
+  },
+  {
+    "appid": 939960,
+    "name": "Far Cry\u00ae New Dawn",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "15 Feb, 2019"
+  },
+  {
+    "appid": 973810,
+    "name": "Journey To The Savage Planet",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "28 Jan, 2021"
+  },
+  {
+    "appid": 976310,
+    "name": "Mortal Kombat\u00a011",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "23 Apr, 2019"
+  },
+  {
+    "appid": 979690,
+    "name": "The Ascent",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "29 Jul, 2021"
+  },
+  {
+    "appid": 1056960,
+    "name": "Wolfenstein: Youngblood",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "25 Jul, 2019"
+  },
+  {
+    "appid": 1065310,
+    "name": "Evil West",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "21 Nov, 2022"
+  },
+  {
+    "appid": 1085510,
+    "name": "Garfield Kart - Furious Racing",
+    "genres": [
+      "Racing"
+    ],
+    "release_date": "6 Nov, 2019"
+  },
+  {
+    "appid": 1086940,
+    "name": "Baldur's Gate 3",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "release_date": "3 Aug, 2023"
+  },
+  {
+    "appid": 1100600,
+    "name": "Football Manager 2020",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "19 Nov, 2019"
+  },
+  {
+    "appid": 1100620,
+    "name": "Football Manager 2020 Touch",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "19 Nov, 2019"
+  },
+  {
+    "appid": 1150640,
+    "name": "Yu-Gi-Oh! Legacy of the Duelist : Link Evolution",
+    "genres": [
+      "Simulation"
+    ],
+    "release_date": "24 Mar, 2020"
+  },
+  {
+    "appid": 1151340,
+    "name": "Fallout 76",
+    "genres": [
+      "RPG"
+    ],
+    "release_date": "14 Apr, 2020"
+  },
+  {
+    "appid": 1174180,
+    "name": "Red Dead Redemption 2",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "5 Dec, 2019"
+  },
+  {
+    "appid": 1194630,
+    "name": "The Dark Pictures Anthology: Little Hope",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "29 Oct, 2020"
+  },
+  {
+    "appid": 1213210,
+    "name": "Command & Conquer\u2122 Remastered Collection",
+    "genres": [
+      "Strategy"
+    ],
+    "release_date": "5 Jun, 2020"
+  },
+  {
+    "appid": 1236300,
+    "name": "Resident Evil Re:Verse",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "20 Oct, 2022"
+  },
+  {
+    "appid": 1238810,
+    "name": "Battlefield\u2122 V",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "22 Oct, 2020"
+  },
+  {
+    "appid": 1238860,
+    "name": "Battlefield 4\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Jun, 2020"
+  },
+  {
+    "appid": 1244950,
+    "name": "Battletoads",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "20 Aug, 2020"
+  },
+  {
+    "appid": 1245620,
+    "name": "ELDEN RING",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "24 Feb, 2022"
+  },
+  {
+    "appid": 1252330,
+    "name": "DEATHLOOP",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "13 Sep, 2021"
+  },
+  {
+    "appid": 1281590,
+    "name": "The Dark Pictures Anthology: House of Ashes",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "21 Oct, 2021"
+  },
+  {
+    "appid": 1282100,
+    "name": "REMNANT II\u00ae",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "25 Jul, 2023"
+  },
+  {
+    "appid": 1325200,
+    "name": "Nioh 2 \u2013 The Complete Edition",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "5 Feb, 2021"
+  },
+  {
+    "appid": 1358700,
+    "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "6 Apr, 2023"
+  },
+  {
+    "appid": 1367080,
+    "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "release_date": "30 May, 2023"
+  },
+  {
+    "appid": 1384160,
+    "name": "GUILTY GEAR -STRIVE-",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "11 Jun, 2021"
+  },
+  {
+    "appid": 1404210,
+    "name": "Red Dead Online",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "1 Dec, 2020"
+  },
+  {
+    "appid": 1422450,
+    "name": "Deadlock",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "To be announced"
+  },
+  {
+    "appid": 1517290,
+    "name": "Battlefield\u2122 2042",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "release_date": "19 Nov, 2021"
+  },
+  {
+    "appid": 1567020,
+    "name": "The Dark Pictures Anthology: The Devil in Me",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "17 Nov, 2022"
+  },
+  {
+    "appid": 1621690,
+    "name": "Core Keeper",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "27 Aug, 2024"
+  },
+  {
+    "appid": 1677280,
+    "name": "Company of Heroes 3",
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "23 Feb, 2023"
+  },
+  {
+    "appid": 1775270,
+    "name": "The Dark Pictures Anthology: House of Ashes - Friend's Pass",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "28 Jan, 2022"
+  },
+  {
+    "appid": 1801110,
+    "name": "BOKURA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "9 Aug, 2023"
+  },
+  {
+    "appid": 1873030,
+    "name": "Wolfenstein: Enemy Territory",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "26 Apr, 2022"
+  },
+  {
+    "appid": 1888160,
+    "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "24 Aug, 2023"
+  },
+  {
+    "appid": 1904540,
+    "name": "Football Manager 2023",
+    "genres": [
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "8 Nov, 2022"
+  },
+  {
+    "appid": 2016590,
+    "name": "Dark and Darker",
+    "genres": [
+      "Action",
+      "RPG",
+      "Free To Play",
+      "Early Access"
+    ],
+    "release_date": "Jun 7, 2024"
+  },
+  {
+    "appid": 2071280,
+    "name": "Ravenswatch",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "26 Sep, 2024"
+  },
+  {
+    "appid": 2080690,
+    "name": "Sunkenland",
+    "genres": [
+      "Action",
+      "Indie",
+      "Early Access"
+    ],
+    "release_date": "25 Aug, 2023"
+  },
+  {
+    "appid": 2104890,
+    "name": "RoadCraft",
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "release_date": "20 May, 2025"
+  },
+  {
+    "appid": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "16 May, 2024"
+  },
+  {
+    "appid": 2231380,
+    "name": "Tom Clancy's Ghost Recon\u00ae Breakpoint",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "23 Jan, 2023"
+  },
+  {
+    "appid": 2285890,
+    "name": "The Dark Pictures Anthology: The Devil In Me - Friend's Pass",
+    "genres": [
+      "Adventure"
+    ],
+    "release_date": "15 Feb, 2023"
+  },
+  {
+    "appid": 2398180,
+    "name": "Echo Point Nova Demo",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "19 Jun, 2023"
+  },
+  {
+    "appid": 2976900,
+    "name": "Unpossess: Exorcism Simulator",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "release_date": "21 Mar, 2025"
+  },
+  {
+    "appid": 3240220,
+    "name": "Grand Theft Auto V Enhanced",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Racing"
+    ],
+    "release_date": "4 Mar, 2025"
+  }
+]

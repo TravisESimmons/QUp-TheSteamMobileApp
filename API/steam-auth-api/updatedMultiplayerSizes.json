@@ -1,0 +1,2832 @@
+{
+  "240": {
+    "appid": 240,
+    "name": "Counter-Strike: Source",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/header.jpg?t=1729702412",
+    "release_date": "1 Nov, 2004",
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "maxPlayers": null
+  },
+  "300": {
+    "name": "Day of Defeat: Source",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300/header.jpg?t=1729702240",
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes Source SDK",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "release_date": "12 Jul, 2010",
+    "maxPlayers": 1
+  },
+  "1250": {
+    "appid": 1250,
+    "name": "Killing Floor",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1250/header.jpg?t=1726777771",
+    "release_date": "14 May, 2009",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": []
+  },
+  "1520": {
+    "name": "DEFCON",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520/header.jpg?t=1739091415",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "29 Sep, 2006",
+    "maxPlayers": 1
+  },
+  "1900": {
+    "name": "Earth 2160",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900/header.jpg?t=1623327678",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "1 Apr, 2006",
+    "maxPlayers": 1
+  },
+  "1930": {
+    "name": "Two Worlds Epic Edition",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1930/header.jpg?t=1694869345",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "genres": [
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "30 Apr, 2009",
+    "maxPlayers": 1
+  },
+  "2280": {
+    "appid": 2280,
+    "name": "DOOM + DOOM II",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2280/header.jpg?t=1742827735",
+    "release_date": "3 Aug, 2007",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": []
+  },
+  "2310": {
+    "name": "Quake",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310/header.jpg?t=1691683243",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "release_date": "3 Aug, 2007",
+    "maxPlayers": 1
+  },
+  "2320": {
+    "name": "Quake II",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320/header.jpg?t=1716567359",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "release_date": "3 Aug, 2007",
+    "maxPlayers": 1
+  },
+  "6370": {
+    "name": "Bloodline Champions",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/6370/header.jpg?t=1667472057",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer"
+    ],
+    "userTags": [],
+    "release_date": "28 Oct, 2011",
+    "maxPlayers": 1
+  },
+  "7520": {
+    "name": "Two Worlds II HD",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7520/header.jpg?t=1666025333",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "3 Feb, 2011",
+    "maxPlayers": 1
+  },
+  "8500": {
+    "name": "EVE Online",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8500/header.jpg?t=1743435795",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "15 Dec, 2010",
+    "maxPlayers": 1
+  },
+  "9880": {
+    "name": "Champions Online",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9880/header.jpg?t=1740044088",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements"
+    ],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "14 Jun, 2011",
+    "maxPlayers": 1
+  },
+  "11610": {
+    "name": "Dragon Nest",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/11610/header.jpg?t=1516788252",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "18 Dec, 2012",
+    "maxPlayers": 1
+  },
+  "17710": {
+    "name": "Nuclear Dawn",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17710/header.jpg?t=1705881554",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "26 Sep, 2011",
+    "maxPlayers": 1
+  },
+  "22500": {
+    "name": "Spectromancer",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22500/header.jpg?t=1706852656",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "11 Feb, 2009",
+    "maxPlayers": 1
+  },
+  "24200": {
+    "name": "DC Universe\u2122 Online",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/24200/header.jpg?t=1738114516",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "2 Nov, 2011",
+    "maxPlayers": 1
+  },
+  "35450": {
+    "name": "Red Orchestra 2: Heroes of Stalingrad with Rising Storm",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35450/header.jpg?t=1552425243",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Simulation"
+    ],
+    "userTags": [],
+    "release_date": "13 Sep, 2011",
+    "maxPlayers": 1
+  },
+  "35720": {
+    "name": "Trine 2: Complete Story",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/35720/header.jpg?t=1725007729",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "6 Jun, 2013",
+    "maxPlayers": 1
+  },
+  "39120": {
+    "name": "RIFT",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39120/header.jpg?t=1700242293",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "1 Mar, 2011",
+    "maxPlayers": 1
+  },
+  "39210": {
+    "name": "FINAL FANTASY XIV Online",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39210/header.jpg?t=1738089746",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Partial Controller Support",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "18 Feb, 2014",
+    "maxPlayers": 1
+  },
+  "39800": {
+    "name": "Nation Red",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/39800/header.jpg?t=1669304630",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "3 Sep, 2009",
+    "maxPlayers": 1
+  },
+  "40400": {
+    "name": "AI War: Fleet Command",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40400/header.jpg?t=1741478931",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "21 Oct, 2009",
+    "maxPlayers": 1
+  },
+  "41070": {
+    "name": "Serious Sam 3: BFE",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41070/header.jpg?t=1728688460",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "22 Nov, 2011",
+    "maxPlayers": 1
+  },
+  "41300": {
+    "name": "Altitude",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41300/header.jpg?t=1721932661",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Stats",
+      "Includes level editor"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "4 Dec, 2009",
+    "maxPlayers": 1
+  },
+  "49600": {
+    "name": "Beat Hazard",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49600/header.jpg?t=1726645899",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "15 Apr, 2010",
+    "maxPlayers": 1
+  },
+  "50300": {
+    "appid": 50300,
+    "name": "Spec Ops: The Line",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50300/header.jpg?t=1706567828",
+    "release_date": "29 Jun, 2012",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "userTags": []
+  },
+  "91600": {
+    "name": "Sanctum",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/91600/header.jpg?t=1562514720",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "15 Apr, 2011",
+    "maxPlayers": 1
+  },
+  "99900": {
+    "name": "Spiral Knights",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99900/header.jpg?t=1721932684",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "14 Jun, 2011",
+    "maxPlayers": 1
+  },
+  "99910": {
+    "name": "Puzzle Pirates",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/99910/header.jpg?t=1654611469",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Massively Multiplayer",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "31 Aug, 2011",
+    "maxPlayers": 1
+  },
+  "108200": {
+    "name": "Ticket to Ride: Classic Edition",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108200/header.jpg?t=1696352833",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Shared/Split Screen PvP",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "24 May, 2012",
+    "maxPlayers": 1
+  },
+  "108600": {
+    "name": "Project Zomboid",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1739309087",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Early Access"
+    ],
+    "userTags": [],
+    "release_date": "Nov 8, 2013",
+    "maxPlayers": 1
+  },
+  "113020": {
+    "name": "Monaco: What's Yours Is Mine",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113020/header.jpg?t=1741126657",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "24 Apr, 2013",
+    "maxPlayers": 1
+  },
+  "113400": {
+    "name": "APB Reloaded",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113400/18a81b8903a590e65654fefa1b5ed991fea903bc/header_alt_assets_6.jpg?t=1741319298",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Steam Achievements"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "6 Dec, 2011",
+    "maxPlayers": 1
+  },
+  "113420": {
+    "name": "Fallen Earth Classic",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/113420/header.jpg?t=1645468079",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements"
+    ],
+    "genres": [
+      "Free To Play",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "22 Feb, 2012",
+    "maxPlayers": 1
+  },
+  "200390": {
+    "name": "Oil Rush",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200390/header.jpg?t=1706247865",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards"
+    ],
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "25 Jan, 2012",
+    "maxPlayers": 1
+  },
+  "200510": {
+    "appid": 200510,
+    "name": "XCOM: Enemy Unknown",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200510/header.jpg?t=1587584126",
+    "release_date": "8 Oct, 2012",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Strategy"
+    ],
+    "userTags": []
+  },
+  "200710": {
+    "name": "Torchlight II",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200710/header.jpg?t=1712608749",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "20 Sep, 2012",
+    "maxPlayers": 1
+  },
+  "201230": {
+    "name": "EverQuest II",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201230/header.jpg?t=1712620040",
+    "categories": [
+      "Multi-player",
+      "MMO"
+    ],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "7 Dec, 2011",
+    "maxPlayers": 1
+  },
+  "206420": {
+    "name": "Saints Row IV: Re-Elected",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206420/header.jpg?t=1725437675",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "userTags": [],
+    "release_date": "Aug 19, 2013",
+    "maxPlayers": 1
+  },
+  "206480": {
+    "name": "Dungeons & Dragons Online\u00ae",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206480/header.jpg?t=1743519472",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Co-op",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "25 Jun, 2012",
+    "maxPlayers": 1
+  },
+  "207250": {
+    "name": "Cubemen",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/207250/header.jpg?t=1447355406",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "16 Mar, 2012",
+    "maxPlayers": 1
+  },
+  "208140": {
+    "name": "ENDLESS\u2122 Space - Definitive Edition",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208140/header.jpg?t=1676896716",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "4 Jul, 2012",
+    "maxPlayers": 1
+  },
+  "209270": {
+    "name": "Hero Academy",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/209270/header.jpg?t=1546888006",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": null,
+    "maxPlayers": 1
+  },
+  "212070": {
+    "name": "Star Conflict",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212070/0566330615a98cca7bae6d933099161f3ae415ca/header.jpg?t=1741671344",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "VR Support",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "27 Feb, 2013",
+    "maxPlayers": 1
+  },
+  "212160": {
+    "name": "Vindictus",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212160/header.jpg?t=1737458340",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "22 Jun, 2012",
+    "maxPlayers": 1
+  },
+  "212200": {
+    "name": "Mabinogi",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212200/8a4c96ff28be42899251272fa4db57b8a089acff/header.jpg?t=1744306672",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Trading Cards"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "6 Dec, 2012",
+    "maxPlayers": 1
+  },
+  "212500": {
+    "name": "The Lord of the Rings Online\u2122",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/212500/header.jpg?t=1743519526",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Co-op",
+      "In-App Purchases",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "6 Jun, 2012",
+    "maxPlayers": 1
+  },
+  "214360": {
+    "name": "Tower Wars",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214360/header.jpg?t=1478044266",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "14 Aug, 2012",
+    "maxPlayers": 1
+  },
+  "214420": {
+    "name": "Gear Up",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/214420/header.jpg?t=1482258250",
+    "categories": [
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Steam Leaderboards"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "28 Jan, 2015",
+    "maxPlayers": 1
+  },
+  "215280": {
+    "name": "Secret World Legends",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/215280/header.jpg?t=1728917535",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "31 Jul, 2017",
+    "maxPlayers": 1
+  },
+  "215530": {
+    "name": "The Incredible Adventures of Van Helsing",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/215530/header.jpg?t=1573827571",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "22 May, 2013",
+    "maxPlayers": 1
+  },
+  "216150": {
+    "name": "MapleStory",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216150/2ea3c4f90e124483a05d13bb795f06d22a99edb9/header_alt_assets_8.jpg?t=1742451414",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Trading Cards"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "9 Aug, 2012",
+    "maxPlayers": 1
+  },
+  "217750": {
+    "name": "Age of Conan: Unchained",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217750/header.jpg?t=1683015744",
+    "categories": [
+      "Multi-player",
+      "MMO"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "22 Feb, 2013",
+    "maxPlayers": 1
+  },
+  "218230": {
+    "name": "PlanetSide 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218230/header.jpg?t=1732130400",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Steam Trading Cards",
+      "Steam Cloud"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "20 Nov, 2012",
+    "maxPlayers": 1
+  },
+  "218510": {
+    "name": "Planets Under Attack",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218510/header.jpg?t=1721840744",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "27 Sep, 2012",
+    "maxPlayers": 1
+  },
+  "218820": {
+    "name": "Mercenary Kings: Reloaded Edition",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218820/header.jpg?t=1727901831",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "25 Mar, 2014",
+    "maxPlayers": 1
+  },
+  "221100": {
+    "name": "DayZ",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1741874734",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer"
+    ],
+    "userTags": [],
+    "release_date": "13 Dec, 2018",
+    "maxPlayers": 1
+  },
+  "222750": {
+    "name": "Wargame: Airland Battle",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/222750/header.jpg?t=1639653297",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "29 May, 2013",
+    "maxPlayers": 1
+  },
+  "224260": {
+    "appid": 224260,
+    "name": "No More Room in Hell",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224260/header.jpg?t=1696263772",
+    "release_date": "31 Oct, 2013",
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Captions available",
+      "VR Support",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Valve Anti-Cheat enabled",
+      "Includes level editor",
+      "Includes Source SDK"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "maxPlayers": null
+  },
+  "224540": {
+    "name": "Ace of Spades: Battle Builder",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224540/header.jpg?t=1636677126",
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": null,
+    "maxPlayers": 1
+  },
+  "224600": {
+    "name": "Defiance",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/224600/header.jpg?t=1619719240",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Trading Cards",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "4 Jun, 2014",
+    "maxPlayers": 1
+  },
+  "225600": {
+    "name": "Blade Symphony",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225600/header.jpg?t=1678231957",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Stats",
+      "Includes level editor",
+      "Includes Source SDK",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "7 May, 2014",
+    "maxPlayers": 1
+  },
+  "226700": {
+    "name": "Infestation: The New Beginning",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/226700/header.jpg?t=1732532491",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": null,
+    "maxPlayers": 1
+  },
+  "227180": {
+    "name": "Kingdom Wars",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227180/header.jpg?t=1506091554",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Includes level editor"
+    ],
+    "genres": [
+      "Free To Play",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG",
+      "Simulation",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "1 Apr, 2013",
+    "maxPlayers": 1
+  },
+  "227560": {
+    "name": "Scourge: Outbreak",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227560/header.jpg?t=1478162856",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "2 Apr, 2014",
+    "maxPlayers": 1
+  },
+  "230410": {
+    "appid": 230410,
+    "name": "Warframe",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/73f2628439b0f5e28bf9398405a78f8d5dedd73b/header.jpg?t=1744224031",
+    "release_date": "25 Mar, 2013",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "HDR available"
+    ],
+    "genres": [
+      "Action",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": []
+  },
+  "231060": {
+    "name": "Ragnarok Online 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/231060/header.jpg?t=1667345187",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO"
+    ],
+    "genres": [
+      "Free To Play",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "1 May, 2013",
+    "maxPlayers": 1
+  },
+  "236730": {
+    "name": "Anomaly 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236730/header.jpg?t=1716457749",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "15 May, 2013",
+    "maxPlayers": 1
+  },
+  "236850": {
+    "name": "Europa Universalis IV",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg?t=1738000732",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "13 Aug, 2013",
+    "maxPlayers": 1
+  },
+  "237310": {
+    "name": "Elsword",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237310/5de819ea69673e522ae843c91bc29ca4eedd47d5/header.jpg?t=1744219633",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "2 Jul, 2014",
+    "maxPlayers": 1
+  },
+  "291480": {
+    "name": "Warface: Clutch",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291480/0cfe8822d016fd4d61875df9297fc7744b347adb/header.jpg?t=1743425008",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "1 Jul, 2014",
+    "maxPlayers": 1
+  },
+  "299360": {
+    "name": "Block N Load",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299360/header.jpg?t=1727937374",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Valve Anti-Cheat enabled",
+      "Stats",
+      "Includes level editor"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "Strategy",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "30 Apr, 2015",
+    "maxPlayers": 1
+  },
+  "304030": {
+    "name": "ArcheAge",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304030/header.jpg?t=1719506893",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "26 Mar, 2015",
+    "maxPlayers": 1
+  },
+  "306130": {
+    "appid": 306130,
+    "name": "The Elder Scrolls\u00ae Online",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/0d72f13b2d3f75385a0c83e2551ba97e1059c6fe/header.jpg?t=1744323757",
+    "release_date": "22 May, 2017",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "HDR available",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": []
+  },
+  "310950": {
+    "name": "Street Fighter V",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310950/header.jpg?t=1705467952",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "release_date": "15 Feb, 2016",
+    "maxPlayers": 1
+  },
+  "312060": {
+    "name": "FINAL FANTASY XIV Online Free Trial",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312060/header.jpg?t=1740767983",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Game demo",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "5 Nov, 2014",
+    "maxPlayers": 1
+  },
+  "381210": {
+    "name": "Dead by Daylight",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1744310903",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "release_date": "14 Jun, 2016",
+    "maxPlayers": 1
+  },
+  "397540": {
+    "appid": 397540,
+    "name": "Borderlands 3",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397540/header.jpg?t=1731365610",
+    "release_date": "13 Mar, 2020",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "userTags": []
+  },
+  "397900": {
+    "name": "Business Tour - Board Game with Online Multiplayer",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/397900/header.jpg?t=1731603904",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "In-App Purchases",
+      "Steam Leaderboards",
+      "Includes level editor",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "27 Jul, 2017",
+    "maxPlayers": 1
+  },
+  "398710": {
+    "name": "Timberman",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/398710/header.jpg?t=1726574447",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "18 Sep, 2015",
+    "maxPlayers": 1
+  },
+  "402560": {
+    "name": "Tabletopia",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/402560/header.jpg?t=1729948257",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Casual",
+      "Indie",
+      "RPG",
+      "Simulation",
+      "Strategy",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "30 Nov, 2016",
+    "maxPlayers": 1
+  },
+  "436180": {
+    "name": "Spacelords",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/436180/header.jpg?t=1622637314",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Steam Cloud",
+      "Remote Play on TV"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Free To Play",
+      "Indie",
+      "Massively Multiplayer",
+      "Strategy",
+      "Movie"
+    ],
+    "userTags": [],
+    "release_date": "22 Sep, 2017",
+    "maxPlayers": 1
+  },
+  "439910": {
+    "name": "Risky Rescue",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/439910/header.jpg?t=1568804881",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie"
+    ],
+    "userTags": [],
+    "release_date": "19 Feb, 2016",
+    "maxPlayers": 1
+  },
+  "449140": {
+    "name": "Istrolid",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449140/header.jpg?t=1615081242",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer"
+    ],
+    "genres": [
+      "Free To Play",
+      "Indie",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "6 May, 2016",
+    "maxPlayers": 1
+  },
+  "454650": {
+    "name": "DRAGON BALL XENOVERSE 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454650/header.jpg?t=1734053966",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Steam Leaderboards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Massively Multiplayer"
+    ],
+    "userTags": [],
+    "release_date": "27 Oct, 2016",
+    "maxPlayers": 1
+  },
+  "485000": {
+    "name": "Cthulhu Realms",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/485000/header.jpg?t=1721256394",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "1 Jul, 2016",
+    "maxPlayers": 1
+  },
+  "487000": {
+    "name": "Quest Hunter",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/487000/header.jpg?t=1722253731",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Cloud",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "8 Mar, 2019",
+    "maxPlayers": 1
+  },
+  "496240": {
+    "name": "Onward",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/496240/df9a63717fe3bee4ccaad33717e6bdaed4435c42/header.jpg?t=1743023784",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Tracked Controller Support",
+      "VR Only",
+      "SteamVR Collectibles"
+    ],
+    "genres": [
+      "Action",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "25 Mar, 2025",
+    "maxPlayers": 1
+  },
+  "556180": {
+    "name": "Mysterium: A Psychic Clue Game",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556180/header.jpg?t=1741270717",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "12 Jan, 2017",
+    "maxPlayers": 1
+  },
+  "619910": {
+    "name": "Just Cause\u2122 3: Multiplayer Mod",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619910/header.jpg?t=1728484966",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer"
+    ],
+    "userTags": [],
+    "release_date": "20 Jul, 2017",
+    "maxPlayers": 1
+  },
+  "680420": {
+    "name": "OUTRIDERS",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/680420/header.jpg?t=1728485147",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "1 Apr, 2021",
+    "maxPlayers": 1
+  },
+  "743090": {
+    "name": "Defiance 2050",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/743090/header.jpg?t=1619719250",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Full controller support",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Massively Multiplayer"
+    ],
+    "userTags": [],
+    "release_date": "10 Jul, 2018",
+    "maxPlayers": 1
+  },
+  "755980": {
+    "name": "DEPLOYMENT",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755980/header.jpg?t=1695748760",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Stats",
+      "Steam Leaderboards",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie",
+      "Massively Multiplayer",
+      "Racing",
+      "Sports",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "10 Apr, 2018",
+    "maxPlayers": 1
+  },
+  "760160": {
+    "name": "Vampire: The Masquerade - Bloodhunt",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760160/header.jpg?t=1680688641",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "27 Apr, 2022",
+    "maxPlayers": 1
+  },
+  "945360": {
+    "appid": 945360,
+    "name": "Among Us",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1731953093",
+    "release_date": "16 Nov, 2018",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Full controller support",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Casual"
+    ],
+    "userTags": [],
+    "maxPlayers": null
+  },
+  "957830": {
+    "name": "Crystal Maidens",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/957830/header.jpg?t=1667388965",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Adventure",
+      "Free To Play",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "3 Jun, 2019",
+    "maxPlayers": 1
+  },
+  "963930": {
+    "name": "Contractors",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963930/header.jpg?t=1732285979",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Tracked Controller Support",
+      "VR Only",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "userTags": [],
+    "release_date": "14 Dec, 2018",
+    "maxPlayers": 1
+  },
+  "976730": {
+    "appid": 976730,
+    "name": "Halo: The Master Chief Collection",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976730/header.jpg?t=1740682623",
+    "release_date": "3 Dec, 2019",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "LAN PvP",
+      "Co-op",
+      "Online Co-op",
+      "LAN Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Remote Play on Phone",
+      "Remote Play on Tablet",
+      "Remote Play on TV",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "maxPlayers": null
+  },
+  "1056640": {
+    "name": "Phantasy Star Online 2 New Genesis",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056640/header.jpg?t=1738835357",
+    "categories": [
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "5 Aug, 2020",
+    "maxPlayers": 1
+  },
+  "1097840": {
+    "name": "Gears 5",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097840/header.jpg?t=1684425784",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Shared/Split Screen PvP",
+      "Co-op",
+      "Online Co-op",
+      "Shared/Split Screen Co-op",
+      "Shared/Split Screen",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Captions available",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Includes level editor",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "userTags": [],
+    "release_date": "9 Sep, 2019",
+    "maxPlayers": 1
+  },
+  "1238840": {
+    "name": "Battlefield\u2122 1",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238840/header.jpg?t=1730828840",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Trading Cards",
+      "HDR available"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer"
+    ],
+    "userTags": [],
+    "release_date": "11 Jun, 2020",
+    "maxPlayers": 1
+  },
+  "1272080": {
+    "name": "PAYDAY 3",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272080/header.jpg?t=1740490904",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "21 Sep, 2023",
+    "maxPlayers": 1
+  },
+  "1284410": {
+    "name": "GWENT: The Witcher Card Game",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1284410/header.jpg?t=1729849940",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support",
+      "Remote Play on Tablet"
+    ],
+    "genres": [
+      "RPG",
+      "Strategy",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "19 May, 2020",
+    "maxPlayers": 1
+  },
+  "1465070": {
+    "name": "Legendary Tales",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465070/header.jpg?t=1710443135",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Tracked Controller Support",
+      "VR Only",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "userTags": [],
+    "release_date": "8 Feb, 2024",
+    "maxPlayers": 1
+  },
+  "1549970": {
+    "name": "Aliens: Fireteam Elite",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/header.jpg?t=1727102951",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "userTags": [],
+    "release_date": "23 Aug, 2021",
+    "maxPlayers": 1
+  },
+  "1556200": {
+    "name": "Predator: Hunting Grounds",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1556200/header.jpg?t=1743531064",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Partial Controller Support",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "release_date": "29 Apr, 2021",
+    "maxPlayers": 1
+  },
+  "1599340": {
+    "name": "Lost Ark",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599340/header.jpg?t=1736361963",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Steam Achievements",
+      "In-App Purchases",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "11 Feb, 2022",
+    "maxPlayers": 1
+  },
+  "1669000": {
+    "name": "Age of Wonders 4",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1669000/0200352f04e34d792d78453cd0e58382d25c2da4/header_alt_assets_5.jpg?t=1743702255",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Workshop",
+      "Partial Controller Support",
+      "Steam Cloud",
+      "Remote Play Together",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "2 May, 2023",
+    "maxPlayers": 1
+  },
+  "1818750": {
+    "name": "MultiVersus",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1818750/header_alt_assets_3.jpg?t=1739984617",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases",
+      "Remote Play Together"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "19 Jul, 2022",
+    "maxPlayers": 1
+  },
+  "1824220": {
+    "appid": 1824220,
+    "name": "Chivalry 2",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg?t=1744201613",
+    "release_date": "12 Jun, 2022",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "In-App Purchases",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Massively Multiplayer"
+    ],
+    "userTags": []
+  },
+  "1874880": {
+    "name": "Arma Reforger",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874880/header.jpg?t=1743091169",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "Steam Cloud",
+      "Family Sharing"
+    ],
+    "genres": [
+      "Action",
+      "Simulation",
+      "Strategy"
+    ],
+    "userTags": [],
+    "release_date": "16 Nov, 2023",
+    "maxPlayers": 1
+  },
+  "1938010": {
+    "name": "WILD HEARTS\u2122",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938010/header.jpg?t=1704990383",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "userTags": [],
+    "release_date": "16 Feb, 2023",
+    "maxPlayers": 1
+  },
+  "1938090": {
+    "name": "Call of Duty\u00ae",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/dd68f8902dcddadd3a47fecc4ccc586683592c6b/header.jpg?t=1744388487",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "Captions available",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": [],
+    "release_date": "27 Oct, 2022",
+    "maxPlayers": 1
+  },
+  "1985810": {
+    "appid": 1985810,
+    "name": "Call of Duty\u00ae: Black Ops Cold War",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1731607699",
+    "release_date": "8 Mar, 2023",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action"
+    ],
+    "userTags": []
+  },
+  "2073850": {
+    "appid": 2073850,
+    "name": "THE FINALS",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2073850/05c094dc480f5002adfb7c9076789260bf86faee/header.jpg?t=1743523996",
+    "release_date": "7 Dec, 2023",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "maxPlayers": null
+  },
+  "2074920": {
+    "name": "The First Descendant",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2074920/14b61ec3a74ce09fdc0c663836f5e3ac576e42ac/header.jpg?t=1741917673",
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases",
+      "Partial Controller Support"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "30 Jun, 2024",
+    "maxPlayers": 1
+  },
+  "2141910": {
+    "name": "Magic: The Gathering Arena",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2141910/d6f02fab974a739fc074b5bd7af9ee9f97916428/header.jpg?t=1744151551",
+    "categories": [
+      "Multi-player",
+      "PvP",
+      "Online PvP",
+      "Cross-Platform Multiplayer",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Strategy",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "23 May, 2023",
+    "maxPlayers": 1
+  },
+  "2429640": {
+    "name": "THRONE AND LIBERTY",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2429640/3930116fbc33b812208c9da1ed0599f086a20876/header.jpg?t=1741285277",
+    "categories": [
+      "Multi-player",
+      "MMO",
+      "PvP",
+      "Online PvP",
+      "Co-op",
+      "Online Co-op",
+      "Cross-Platform Multiplayer",
+      "Steam Achievements",
+      "Full controller support",
+      "In-App Purchases"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "RPG",
+      "Free To Play"
+    ],
+    "userTags": [],
+    "release_date": "1 Oct, 2024",
+    "maxPlayers": 1
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "playtime_forever": 28054,
+    "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 570,
+    "name": "Dota 2",
+    "playtime_forever": 24275,
+    "img_icon_url": "0bbb630d63262dd66d2fdd0f7d37e8661a410075",
+    "content_descriptorids": [
+      5
+    ]
+  }
+]

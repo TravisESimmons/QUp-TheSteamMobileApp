@@ -1,0 +1,454 @@
+[
+  {
+    "appid": 10,
+    "name": "Counter-Strike",
+    "playtime_forever": 0,
+    "img_icon_url": "6b0312cda02f5f777efa2f3318c307ff9acafbb5",
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 80,
+    "name": "Counter-Strike: Condition Zero",
+    "playtime_forever": 0,
+    "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236",
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 100,
+    "name": "Counter-Strike: Condition Zero Deleted Scenes",
+    "playtime_forever": 0,
+    "img_icon_url": "077b050ef3e89cd84e2c5a575d78d53b54058236"
+  },
+  {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "playtime_forever": 62,
+    "img_icon_url": "4a6f25cfa2426445d0d9d6e233408de4d371ce8b",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 22330,
+    "name": "The Elder Scrolls IV: Oblivion ",
+    "playtime_forever": 241,
+    "img_icon_url": "e33402f6e1e4ed6dd001c7add26934f345cbd31e",
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 22320,
+    "name": "The Elder Scrolls III: Morrowind",
+    "playtime_forever": 49,
+    "img_icon_url": "b8c92762a15c48d39d0f24417b3706a437f5867e",
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 6060,
+    "name": "Star Wars: Battlefront 2 (Classic, 2005)",
+    "playtime_forever": 810,
+    "img_icon_url": "f6302406e215af8cff3533a747d30387f68bef2a"
+  },
+  {
+    "appid": 6000,
+    "name": "STAR WARS™ Republic Commando",
+    "playtime_forever": 242,
+    "img_icon_url": "73d4fd5437a5491479c7235eef64cf7d5e2c2e8e"
+  },
+  {
+    "appid": 32350,
+    "name": "STAR WARS™ Starfighter™",
+    "playtime_forever": 80,
+    "img_icon_url": "9fcafa15e223942015c7171c31d45df7eed75047"
+  },
+  {
+    "appid": 32370,
+    "name": "STAR WARS™ Knights of the Old Republic™",
+    "playtime_forever": 219,
+    "img_icon_url": "018b6650c8de8c9c36d957cf6f8bc11d0c21d083"
+  },
+  {
+    "appid": 32390,
+    "name": "STAR WARS™ Jedi Knight: Mysteries of the Sith™",
+    "playtime_forever": 0,
+    "img_icon_url": "e5af0881e086756eb98a963c8baed05830594f91"
+  },
+  {
+    "appid": 6030,
+    "name": "STAR WARS™ Jedi Knight II: Jedi Outcast™",
+    "playtime_forever": 0,
+    "img_icon_url": "7f6bf88e9eca8e206b3659fd52d1a07324ee27cb"
+  },
+  {
+    "appid": 32400,
+    "name": "STAR WARS™: Dark Forces",
+    "playtime_forever": 3,
+    "img_icon_url": "be8c3aab8f42f91a84aef316027fd545638f9e13"
+  },
+  {
+    "appid": 32380,
+    "name": "STAR WARS™ Jedi Knight: Dark Forces II",
+    "playtime_forever": 0,
+    "img_icon_url": "be8c3aab8f42f91a84aef316027fd545638f9e13"
+  },
+  {
+    "appid": 6020,
+    "name": "STAR WARS™ Jedi Knight: Jedi Academy™",
+    "playtime_forever": 619,
+    "img_icon_url": "2e359a8df71ea18ddd77fda3f6b307e6e86ef910"
+  },
+  {
+    "appid": 22370,
+    "name": "Fallout 3 - Game of the Year Edition",
+    "playtime_forever": 13,
+    "img_icon_url": "21d7090bdea8f6685ca730850b7b55acfdb92732"
+  },
+  {
+    "appid": 32470,
+    "name": "STAR WARS™ Empire at War: Gold Pack",
+    "playtime_forever": 18839,
+    "img_icon_url": "3f65d9be3af3083c07f1053dbf0b0653af7323b8"
+  },
+  {
+    "appid": 22380,
+    "name": "Fallout: New Vegas",
+    "playtime_forever": 2316,
+    "img_icon_url": "1711fd8c46d739feec76bd4a64eaeeca5b87e3a7",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 72850,
+    "name": "The Elder Scrolls V: Skyrim",
+    "playtime_2weeks": 302,
+    "playtime_forever": 164704,
+    "img_icon_url": "b9aca8a189abd8d6aaf09047dbb0f57582683e1c",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      5
+    ]
+  },
+  {
+    "appid": 50300,
+    "name": "Spec Ops: The Line",
+    "playtime_forever": 0,
+    "img_icon_url": "55ae859a90d61c08f18ed3aa0ee2579169d2c2bf",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 208580,
+    "name": "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™",
+    "playtime_forever": 0,
+    "img_icon_url": "1c9e1a68198c15eb47b35c692fbfa5adeb7a6566",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 219640,
+    "name": "Chivalry: Medieval Warfare",
+    "playtime_forever": 241,
+    "img_icon_url": "d4628be29b7e97d93a3404870dfe79642b90b907",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 200170,
+    "name": "Worms Revolution",
+    "playtime_forever": 7,
+    "img_icon_url": "15c154176bfa6bffabc7ebd31fd67de2485c6e1c",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 217200,
+    "name": "Worms Armageddon",
+    "playtime_forever": 59,
+    "img_icon_url": "68c6d17bde9c578d91dd1e207b58eb4d8308ce40"
+  },
+  {
+    "appid": 242920,
+    "name": "Banished",
+    "playtime_forever": 104,
+    "img_icon_url": "1c499bc7d659ddde65a1cd3f2cd7b6122211b4b1",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 244850,
+    "name": "Space Engineers",
+    "playtime_forever": 46,
+    "img_icon_url": "f9856a90000d88e9a89441a7381fe9877e91eaca",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 15620,
+    "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+    "playtime_forever": 263,
+    "img_icon_url": "63d290e28741128c7f979d329401a6c83676ec66",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 20570,
+    "name": "Warhammer 40,000: Dawn of War II - Chaos Rising",
+    "playtime_forever": 0,
+    "img_icon_url": "c336ad99c1fbd88afbcb9c1604fa78d0e6f470b4",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 56400,
+    "name": "Warhammer 40,000: Dawn of War II - Retribution",
+    "playtime_forever": 0,
+    "img_icon_url": "56241ad73fdc9a4d208d5417a0d9109e9a6e29cd",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 49520,
+    "name": "Borderlands 2",
+    "playtime_forever": 0,
+    "img_icon_url": "a3f4945226e69b6196074df4c776e342d3e5a3be",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 22100,
+    "name": "Mount & Blade",
+    "playtime_forever": 2014,
+    "img_icon_url": "86d2f78aaff6629cded326df094c933b50302f0f"
+  },
+  {
+    "appid": 48700,
+    "name": "Mount & Blade: Warband",
+    "playtime_forever": 1934,
+    "img_icon_url": "0773e90a6991a5427df4ee516687d832d92b050e",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 48720,
+    "name": "Mount & Blade: With Fire and Sword",
+    "playtime_forever": 0,
+    "img_icon_url": "c27db8507dba945882395a5be1cb20a2c2f59e48",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 291480,
+    "name": "Warface: Clutch",
+    "playtime_forever": 55,
+    "img_icon_url": "66ef308279871d99ca776d4602bf02a354570368",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 16700,
+    "name": "Stronghold Crusader Extreme HD",
+    "playtime_forever": 0,
+    "img_icon_url": "b6d157c98d12921c4a3a13182174aa0bff22d810"
+  },
+  {
+    "appid": 40970,
+    "name": "Stronghold Crusader HD",
+    "playtime_forever": 7,
+    "img_icon_url": "e8ab759836e51dde895aeeb53bdb35959dae00d0"
+  },
+  {
+    "appid": 232890,
+    "name": "Stronghold Crusader 2",
+    "playtime_forever": 66,
+    "img_icon_url": "1e94888e7ac06dc974f4767db2a520c090fa6dbd",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "playtime_forever": 403,
+    "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 346110,
+    "name": "ARK: Survival Evolved",
+    "playtime_forever": 0,
+    "img_icon_url": "fef1799533131c10f538d2dd697bbbd89e663265",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 407530,
+    "name": "ARK: Survival Of The Fittest",
+    "playtime_forever": 0,
+    "img_icon_url": "807c673cddebbfee0700a947a75f4872ad136e9b"
+  },
+  {
+    "appid": 354430,
+    "name": "STAR WARS™: X-Wing Special Edition",
+    "playtime_forever": 0,
+    "img_icon_url": "0d828d0426d33e02f7b9f9d51736034115ebe640"
+  },
+  {
+    "appid": 355250,
+    "name": "STAR WARS™: TIE Fighter Special Edition",
+    "playtime_forever": 13,
+    "img_icon_url": "36ba1940435bc97506eba4f4944f5cdea731a17f"
+  },
+  {
+    "appid": 356500,
+    "name": "STAR WARS™ Galactic Battlegrounds Saga",
+    "playtime_forever": 71,
+    "img_icon_url": "c29991e260eb9e6df6f2d1eba06d9e535b5e5e9a"
+  },
+  {
+    "appid": 359610,
+    "name": "Assassin’s Creed® Chronicles: India",
+    "playtime_forever": 36,
+    "img_icon_url": "ee2b5296792ed0977db661911d98eb9783662064",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 361670,
+    "name": "STAR WARS™: X-Wing Alliance™",
+    "playtime_forever": 0,
+    "img_icon_url": "81cc8b5f944d7592662a265485a8be145623dce9"
+  },
+  {
+    "appid": 361690,
+    "name": "STAR WARS™ X-Wing vs TIE Fighter: Balance of Power Campaigns™",
+    "playtime_forever": 0,
+    "img_icon_url": "5d588cbee4f90e287bf95658b9fcc84ae048650f"
+  },
+  {
+    "appid": 365720,
+    "name": "Skyrim Script Extender (SKSE)",
+    "playtime_2weeks": 3,
+    "playtime_forever": 804,
+    "img_icon_url": "48eaa1815ac4beddc4d7c9fec6c2517f6f0b718e"
+  },
+  {
+    "appid": 369530,
+    "name": "Void Destroyer 2",
+    "playtime_forever": 8,
+    "img_icon_url": "4c2787d2be518ffa74602ef26d56ef44d2919fc4",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 244450,
+    "name": "Men of War: Assault Squad 2",
+    "playtime_forever": 0,
+    "img_icon_url": "5c725b29ce2bf542031e99de36baa8afb5c6d9e0",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 105450,
+    "name": "Age of Empires® III (2007)",
+    "playtime_forever": 0,
+    "img_icon_url": "6fd62f99d3d245868d83af54eb60def5d1667402",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 221380,
+    "name": "Age of Empires II (2013)",
+    "playtime_forever": 186,
+    "img_icon_url": "109c74df17f9b67ea47d8f01e3d1ec25278b9f73",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 266840,
+    "name": "Age of Mythology: Extended Edition",
+    "playtime_forever": 101,
+    "img_icon_url": "43e500d938e87b623c11a02d7b80f7e9018fbbd7",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 287450,
+    "name": "Rise of Nations: Extended Edition",
+    "playtime_forever": 443,
+    "img_icon_url": "0e142a02add319e32447f957a30fd1d360e62d3e",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 441550,
+    "name": "STAR WARS™ Rebellion",
+    "playtime_forever": 11,
+    "img_icon_url": "a2488fdf089076ddb52d0806be65e57bc71d4f24"
+  },
+  {
+    "appid": 455910,
+    "name": "STAR WARS™: Rogue Squadron 3D",
+    "playtime_forever": 33,
+    "img_icon_url": "aad79a5d06200e0aec39b974c7db0d96c982b9da"
+  },
+  {
+    "appid": 456540,
+    "name": "STAR WARS™: Rebel Assault I + II",
+    "playtime_forever": 0,
+    "img_icon_url": "f4f76d056c5f1e9ad512d8cfd403ea9ebc4f4e92"
+  },
+  {
+    "appid": 459220,
+    "name": "Halo Wars: Definitive Edition",
+    "playtime_forever": 887,
+    "img_icon_url": "aaccc322973f4686ed7a7ef0bfafdd7832df2315",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 489830,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "playtime_forever": 50,
+    "img_icon_url": "0dfe3eed5658f9fbd8b62f8021038c0a4190f21d",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      5
+    ]
+  },
+  {
+    "appid": 552990,
+    "name": "World of Warships",
+    "playtime_forever": 18,
+    "img_icon_url": "023b6bb5bcf82f9222d70cd38fdb18a899bd67e8",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 560170,
+    "name": "STAR WARS™: Shadows of the Empire",
+    "playtime_forever": 0,
+    "img_icon_url": "17297ab67251cf12cfc9873baa5223c614ce0e15"
+  },
+  {
+    "appid": 377160,
+    "name": "Fallout 4",
+    "playtime_forever": 560,
+    "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 203770,
+    "name": "Crusader Kings II",
+    "playtime_forever": 0,
+    "img_icon_url": "56e9c15cbeb6c1f873f7f1dc757bae7618861484",
+    "has_community_visible_stats": true
+  }
+]

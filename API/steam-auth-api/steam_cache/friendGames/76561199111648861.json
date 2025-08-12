@@ -1,0 +1,276 @@
+[
+  {
+    "appid": 22380,
+    "name": "Fallout: New Vegas",
+    "playtime_forever": 0,
+    "img_icon_url": "1711fd8c46d739feec76bd4a64eaeeca5b87e3a7",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 236390,
+    "name": "War Thunder",
+    "playtime_forever": 4896,
+    "img_icon_url": "c69fbafb6e9891314cc5df0fe6a659612c289bf9",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 253710,
+    "name": "theHunter Classic",
+    "playtime_forever": 42,
+    "img_icon_url": "4a91dc770675e559038a4f46e0daa4f8fa42ee30",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 221100,
+    "name": "DayZ",
+    "playtime_forever": 2910,
+    "img_icon_url": "16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 271590,
+    "name": "Grand Theft Auto V Legacy",
+    "playtime_forever": 633,
+    "img_icon_url": "1e72f87eb927fa1485e68aefaff23c7fd7178251",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      5
+    ]
+  },
+  {
+    "appid": 3240220,
+    "name": "Grand Theft Auto V Enhanced",
+    "playtime_forever": 0,
+    "img_icon_url": "8355a7bbdb704f727bfba80ec56bc7228991338e",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 291550,
+    "name": "Brawlhalla",
+    "playtime_forever": 80,
+    "img_icon_url": "c43fac31b8bf8821764603a14d09412bc3d45f66",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 518790,
+    "name": "theHunter: Call of the Wild™",
+    "playtime_forever": 5763,
+    "img_icon_url": "8cd121cb62c8f98019ed333716657449c8da2b81",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 562810,
+    "name": "Monopoly Plus",
+    "playtime_forever": 611,
+    "img_icon_url": "5834050412e3b3a54fce383589bed2dd32e5781c"
+  },
+  {
+    "appid": 578080,
+    "name": "PUBG: BATTLEGROUNDS",
+    "playtime_2weeks": 1644,
+    "playtime_forever": 62881,
+    "img_icon_url": "609f27278aa70697c13bf99f32c5a0248c381f9d",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 594650,
+    "name": "Hunt: Showdown 1896",
+    "playtime_forever": 180,
+    "img_icon_url": "06c70772db40f714537f4d80c11859a68560a6b3",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 770720,
+    "name": "Hunt: Showdown 1896 (Test Server)",
+    "playtime_forever": 0,
+    "img_icon_url": "5b6e6df3d86da34a061ef77113483a54317b01e8",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true,
+    "content_descriptorids": [
+      5
+    ]
+  },
+  {
+    "appid": 655500,
+    "name": "MX Bikes",
+    "playtime_forever": 244,
+    "img_icon_url": "528026fd9f9216ad28eb4386388d2d4aae7d9b3d"
+  },
+  {
+    "appid": 377160,
+    "name": "Fallout 4",
+    "playtime_forever": 260,
+    "img_icon_url": "779c4356ebe32af2af7c9f0bbba595dfe872cd7f",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 252490,
+    "name": "Rust",
+    "playtime_forever": 882,
+    "img_icon_url": "820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      1,
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 892970,
+    "name": "Valheim",
+    "playtime_forever": 739,
+    "img_icon_url": "2f64c9a826e2c6cf3253fea4834c2e612db09143"
+  },
+  {
+    "appid": 714010,
+    "name": "Aimlabs",
+    "playtime_forever": 13,
+    "img_icon_url": "15347de11efc127539c388e585af9e92d10d5189",
+    "has_community_visible_stats": true,
+    "has_leaderboards": true
+  },
+  {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "playtime_forever": 300,
+    "img_icon_url": "8dbc71957312bbd3baea65848b545be9eae2a355",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 945360,
+    "name": "Among Us",
+    "playtime_forever": 26,
+    "img_icon_url": "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1097150,
+    "name": "Fall Guys",
+    "playtime_forever": 489,
+    "img_icon_url": "6c027709b9eb1417c993bc7d513b97b232002368",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 690790,
+    "name": "DiRT Rally 2.0",
+    "playtime_forever": 198,
+    "img_icon_url": "bd4cc20090b66b8e5a992a1ab67e3de0bef177da",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1085660,
+    "name": "Destiny 2",
+    "playtime_forever": 363,
+    "img_icon_url": "fce050d63f0a2f8eb51b603c7f30bfca2a301549",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1172470,
+    "name": "Apex Legends",
+    "playtime_forever": 8020,
+    "img_icon_url": "6cc35932af780289ae3d8d5cdbfe9cd545decad2",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1408610,
+    "name": "Call of the Wild: The Angler™",
+    "playtime_forever": 27,
+    "img_icon_url": "6d99928440495a5bfd1cd9a3adcbf181a91e0ef1",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1449850,
+    "name": "Yu-Gi-Oh!  Master Duel",
+    "playtime_forever": 717,
+    "img_icon_url": "44dabbbf83223ac398db561fac195794953b2136",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1466860,
+    "name": "Age of Empires IV: Anniversary Edition",
+    "playtime_forever": 3230,
+    "img_icon_url": "503acf3ef0503e24af6b5336012a1f585a2f955e",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1240440,
+    "name": "Halo Infinite",
+    "playtime_forever": 995,
+    "img_icon_url": "ec684b943169d675439f6cdf64fa2f2aa90d9821",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1966720,
+    "name": "Lethal Company",
+    "playtime_forever": 332,
+    "img_icon_url": "8393f321a62a9ef0be762c81565d2caea4fb7da6",
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 1938090,
+    "name": "Call of Duty®",
+    "playtime_forever": 4333,
+    "img_icon_url": "8eaf32220060344996cbf11f697a4f4be943e5f3",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      2,
+      5
+    ]
+  },
+  {
+    "appid": 1288320,
+    "name": "Way of the Hunter",
+    "playtime_forever": 484,
+    "img_icon_url": "908688f5ce7c768b5f000411f5f72564f9b56078",
+    "has_community_visible_stats": true,
+    "content_descriptorids": [
+      5
+    ]
+  },
+  {
+    "appid": 1588010,
+    "name": "PGA TOUR 2K23",
+    "playtime_forever": 6484,
+    "img_icon_url": "3dd837249f38a6fe63c26d633c5e19fdb6a3b870",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 1919590,
+    "name": "NBA 2K23",
+    "playtime_forever": 0,
+    "img_icon_url": "9ac4da6efc82694ff403e28386dc4bc5a17a1a52",
+    "has_community_visible_stats": true
+  },
+  {
+    "appid": 2767030,
+    "name": "Marvel Rivals",
+    "playtime_forever": 1824,
+    "img_icon_url": "839b4712925b95702ca56e0c4d399adf54f4d617",
+    "has_community_visible_stats": true
+  }
+]
