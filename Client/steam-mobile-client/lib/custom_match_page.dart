@@ -191,22 +191,21 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                     ),
                   ),
                 ),
-                Padding(
-                  padding: const EdgeInsets.all(16),
-                  child: ElevatedButton.icon(
-                    icon: const Icon(Icons.check),
-                    label: const Text("Find a Match"),
-                    onPressed: selectedFriendIds.isNotEmpty ? findMatch : null,
-                    style: ElevatedButton.styleFrom(
-                      backgroundColor: steamGreen,
-                      padding: const EdgeInsets.symmetric(
-                          horizontal: 32, vertical: 14),
-                      textStyle: const TextStyle(fontSize: 18),
-                    ),
-                  ),
-                ),
               ],
             ),
+      bottomNavigationBar: SafeArea(
+        minimum: const EdgeInsets.all(16),
+        child: ElevatedButton.icon(
+          icon: const Icon(Icons.check),
+          label: const Text("Find a Match"),
+          onPressed: selectedFriendIds.isNotEmpty ? findMatch : null,
+          style: ElevatedButton.styleFrom(
+            backgroundColor: steamGreen,
+            padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 14),
+            textStyle: const TextStyle(fontSize: 18),
+          ),
+        ),
+      ),
     );
   }
 

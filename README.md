@@ -1,70 +1,72 @@
 
-# Q-Up
-# QUp! The Steam Mobile App 🎮
+### 1. Home / Index Page
+<div align="left"><img src="Client/steam-mobile-client/assets/images/index-main.jpg" width="400" alt="Index Page"/></div>
+# QUp! The Steam Mobile App
 
-Q-Up helps you and your friends find the best Steam games to play together. Sign in with Steam, see your friends' libraries, and discover multiplayer games you all own—filtered by genre, playtime, and more.
+QUp! is a cross-platform mobile app built with Flutter and Node.js that helps you and your friends find the best Steam games to play together. Sign in with Steam, see your friends’ libraries, and discover multiplayer games you all own—filtered by genre, playtime, and more.
 
 ## Features
 
-- **Sign in with Steam**: Secure authentication to access your game library and friends list.
-- **Quick Match**: Instantly find a game you and a selected friend both own.
-- **Custom Match**: Filter by genres, tags, playtime, year, and more to find the perfect game for your group.
-- **My Games**: Browse and search your Steam library, sorted by playtime.
-- **Settings**: Personalize your experience with sorting, filters, and theme options.
-
-## Screenshots
-
-### Landing Screen
-![Landing](Client/assets/images/landing.png)
-
-### Quick Match
-![Quick Match](Client/assets/images/friend_quick_match.png)
-
-### Quick Match Result
-![Quick Match Result](Client/assets/images/quick_result.png)
-
-### Custom Match
-![Custom Match](Client/assets/images/friend_custom_match.png)
-
-### Custom Match Result
-![Custom Match Result](Client/assets/images/custom_result.png)
-
-### My Games
-![My Games](Client/assets/images/my_games.png)
-
-### Settings
-![Settings](Client/assets/images/settings.png)
-
-## How It Works
-
-1. **Sign in through Steam** to securely connect your account.
-2. **See your friends** and their shared games.
-3. **Use Quick Match** to instantly get a game suggestion for you and a friend.
-4. **Try Custom Match** to filter by genre, tags, playtime, year, and more for group recommendations.
-5. **Browse your library** and search for games you own.
-6. **Adjust settings** to personalize your experience.
-
-## Tech Stack
-
-- **Flutter** (Dart) for cross-platform mobile app development
-- **Node.js/Express** backend (see `/API/steam-auth-api/`)
-- **Steam Web API** for game and friend data
-- **http** package for API requests
-
-## Getting Started
-
-1. Clone this repository.
-2. Set up the backend (see `/API/steam-auth-api/README.md`).
-3. In the `Client` directory, run:
-   ```sh
-   flutter pub get
-   flutter run
-   ```
-4. Open the app, sign in with Steam, and start matching!
+- **Sign in with Steam:** Secure authentication to access your game library and friends list.
+- **Quick Match:** Instantly find a game you and a selected friend both own.
+- **Custom Match:** Filter by genres, tags, playtime, year, and more to find the perfect game for your group.
+- **My Games:** Browse and search your Steam library, sorted by playtime.
+- **Friends' Games:** See what your friends own and play.
+- **Modern UI:** Clean, mobile-first design with dark mode.
 
 ---
 
-```bash
-cd API
-npm install
-node index.js
+## Demo Walkthrough
+
+Below is a step-by-step visual walkthrough of the app experience, from login to finding a match and exploring your library.
+
+
+
+### 2. Quick Match
+Select a friend and instantly find a game you both own.
+<div align="left"><img src="Client/steam-mobile-client/assets/images/quick-match.jpg" width="400" alt="Quick Match"/></div>
+
+### 3. Quick Match Result
+See the best match for you and your friend.
+<div align="left"><img src="Client/steam-mobile-client/assets/images/quick-match-result.jpg" width="400" alt="Quick Match Result"/></div>
+
+### 4. Custom Match
+Filter by genre, year, size, and more to find the perfect group game.
+<div align="left"><img src="Client/steam-mobile-client/assets/images/custom-match.jpg" width="400" alt="Custom Match"/></div>
+
+### 5. Custom Match Result
+Get a curated list of games that fit your criteria.
+<div align="left"><img src="Client/steam-mobile-client/assets/images/custom-match-result.jpg" width="400" alt="Custom Match Result"/></div>
+
+### 6. My Games
+Browse your own Steam library, sorted by playtime.
+<div align="left"><img src="Client/steam-mobile-client/assets/images/my-games.jpg" width="400" alt="My Games"/></div>
+
+### 7. Friends' Games
+See your friends' libraries and what they play most.
+<div align="left"><img src="Client/steam-mobile-client/assets/images/friends-games.jpg" width="400" alt="Friends' Games"/></div>
+
+### 8. Settings
+Customize your experience and manage your account.
+<div align="left"><img src="Client/steam-mobile-client/assets/images/settings.jpg" width="400" alt="Settings"/></div>
+
+---
+
+## Tech Stack
+- **Client:** Flutter (Dart)
+- **API:** Node.js (Express), Steam Web API
+- **Authentication:** Steam OpenID
+
+## How It Works
+1. **Login:** User signs in with Steam.
+2. **Sync:** App fetches your library and friends list.
+3. **Match:** Choose Quick Match or Custom Match to find games you all own.
+4. **Explore:** Browse your games, your friends’ games, and more.
+
+## Setup & Run
+See the [Client/steam-mobile-client/README.md](Client/steam-mobile-client/README.md) for Flutter setup instructions.
+
+---
+
+## License
+MIT

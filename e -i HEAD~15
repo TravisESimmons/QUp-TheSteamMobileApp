@@ -1,0 +1,192 @@
+[33mcommit 8548e2b597ccad6727c7f6ef6ef8e159270df7b9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:58:29 2025 -0600
+
+    docs: add clear setup and run instructions for Flutter client [skip ci]
+
+[33mcommit faa9acfae8534d7701b23ae6549ffbd8a6945b93[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:56:39 2025 -0600
+
+    chore: force left alignment for all screenshots in README [skip ci]
+
+[33mcommit ee2ee01064818e4ec697cf2552b98b2383db5673[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:54:33 2025 -0600
+
+    chore: left-align all screenshots in README for consistent layout [skip ci]
+
+[33mcommit 1e675c03b546ae03f039aca8ab61b3debef328bc[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:52:21 2025 -0600
+
+    chore: adjust index-main screenshot size for consistency [skip ci]
+
+[33mcommit b09f444a5a90f0481902e938664bbcf2c8b7ae0a[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:51:14 2025 -0600
+
+    Update README to use new index-main.jpg for Home/Index Page screenshot
+
+[33mcommit f0ab5414f99f7d96265a1b19da8de4f0e2016af2[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:47:53 2025 -0600
+
+    Restore index page screenshot in README with correct image path
+
+[33mcommit 8f0442f07ab68cd246da522968d8f8ee5900aa39[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:47:02 2025 -0600
+
+    Remove index page screenshot reference from README since image was deleted
+
+[33mcommit 4ee01470389e83d3615507833417da508de21021[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:45:56 2025 -0600
+
+    Remove width from index page screenshot for better portrait display in README
+
+[33mcommit 29cf44d32fc2d30e2a686554f80c62c1be949d73[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:42:27 2025 -0600
+
+    Update: Replace screenshots with new versions for README
+
+[33mcommit 559d84d7fdc0f5fe03e4c922e409fbf0474ff8f8[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:41:03 2025 -0600
+
+    Update README to use HTML image tags for consistent screenshot sizing
+
+[33mcommit dfd53e9ccba0bfe99c2eed7a129a0040d1a3ec4b[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:39:43 2025 -0600
+
+    Add all new and resized screenshots for README (retry)
+
+[33mcommit 6878157edb9f8d71546a763158d2856083fad677[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:38:47 2025 -0600
+
+    Add all new and resized screenshots for README
+
+[33mcommit 48bfce99efdc4f98a05646380a0597ad3e65304a[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:35:31 2025 -0600
+
+    Add index-page.jpg screenshot for README
+
+[33mcommit a98a11dc649f9f653b930a411983271bd56d8486[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 23:34:59 2025 -0600
+
+    Rewrite README as employer-facing demo with screenshots and walkthrough
+
+[33mcommit 1a09f8df342f5bfa62fd49ecf5378793e8bfa68a[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 22:47:26 2025 -0600
+
+    Clean up API folder: archive old/utility scripts, delete unused files and cache
+
+[33mcommit 63ff2c0909b4e3bfb6971d12e9e0336cc2fce716[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 22:44:58 2025 -0600
+
+    Restructure client into steam-mobile-client subfolder for clarity
+
+[33mcommit 7e7458c15875476b9824066080c51a3fa35bb8d4[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 22:35:37 2025 -0600
+
+    Remove hardcoded Steam API key from all API files and use environment variable instead
+
+[33mcommit a4fc9e08bfd0a4b78cfe2ae16952330784bcf342[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 22:26:24 2025 -0600
+
+    Restore deep link redirect to steamqapp://auth-success after Steam login
+
+[33mcommit 2ae565dfe532fb5e004be9f9540a92ae1256cb37[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 21:59:03 2025 -0600
+
+    Redirect Steam login to /login-success for web compatibility
+
+[33mcommit 4d6fef1003c5a98ba5a6ace6fed9445296904485[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 21:55:08 2025 -0600
+
+    Update API and client to use Render deployment URL
+
+[33mcommit 6b9d44f512662a6c930e88423a0d6bca3e7acb46[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 21:39:38 2025 -0600
+
+    Fix: add API/steam-auth-api as a normal folder, not a submodule
+
+[33mcommit f6d3fcf3276b5cb091960910b3c8a29f969103b7[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 21:38:15 2025 -0600
+
+    Restore API folder for deployment
+
+[33mcommit 1d6a80545aedd0ebf312a6c265737779f00e114f[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Mon Aug 11 21:05:13 2025 -0600
+
+    Remove steam-auth-api submodule
+
+[33mcommit 82f973aaed3941b412ed5fe744ba2bd6d7f77966[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Fri Aug 8 09:25:20 2025 -0600
+
+    Update README.md
+
+[33mcommit 6dc7897e085f7889588f97ec7857c87717dfee66[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Fri Aug 8 01:07:41 2025 -0600
+
+    Fix README image paths for GitHub display
+
+[33mcommit 12ca1dc01d45b98f39a1db3e9370ad06b5f1b674[m
+Merge: 678246b 8f0bf4f
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Fri Aug 8 01:04:24 2025 -0600
+
+    Resolve README.md merge conflict and finalize documentation
+
+[33mcommit 678246b086b16d4c03483a251b9b495968b6d2e0[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Fri Aug 8 01:02:53 2025 -0600
+
+    Revamp README with new screenshots and updated app description
+
+[33mcommit 8f0bf4f60e5fabb0ef1cd21ad027a6d63e5a1dae[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Thu Aug 7 22:44:15 2025 -0600
+
+    Update README.md
+
+[33mcommit a6d89227d33f412239c66c93f87aa5a63e566c2d[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Tue Aug 5 00:01:39 2025 -0600
+
+    Server IP change & Folder restructure
+
+[33mcommit ee1174aeca06731601ac016e301293a5f1d58670[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Tue Jul 8 21:45:50 2025 -0600
+
+    Create README.md
+
+[33mcommit 15f2c4c90ca231ccf0c0f9bc97315c7c05761f88[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Tue Jul 8 21:35:07 2025 -0600
+
+    Flattened client folder structure
+
+[33mcommit dcfca16bbc89e981b724e3bcbb575c872370b5ff[m
+Author: Travis Simmons <113370264+TravisESimmons@users.noreply.github.com>
+Date:   Tue Jul 8 21:32:41 2025 -0600
+
+    Initial commit of full QUp Steam App - API and Client
