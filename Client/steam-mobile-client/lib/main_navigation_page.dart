@@ -29,7 +29,10 @@ class _MainNavigationPageState extends State<MainNavigationPage> {
 
   Future<void> loadSteamProfile() async {
     final api = SteamApiService();
+    print('🔍 Loading profile for Steam ID: ${widget.steamId}');
     final data = await api.fetchUserAndFriends(widget.steamId);
+
+    print('📡 API Response: $data');
 
     if (data != null && data['profile'] != null) {
       setState(() {
@@ -37,6 +40,7 @@ class _MainNavigationPageState extends State<MainNavigationPage> {
         steamAvatarUrl = data['profile']['avatar'] ?? '';
         isLoading = false;
       });
+      print('✅ Profile loaded: $steamUsername');
     } else {
       // Handle error or fallback here
       setState(() {
@@ -44,6 +48,7 @@ class _MainNavigationPageState extends State<MainNavigationPage> {
         steamAvatarUrl = '';
         isLoading = false;
       });
+      print('❌ Profile load failed - using fallback');
     }
   }
 

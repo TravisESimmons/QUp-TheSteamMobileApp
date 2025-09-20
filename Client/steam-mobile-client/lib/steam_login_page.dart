@@ -93,23 +93,26 @@ class _SteamLoginPageState extends State<SteamLoginPage> {
             onPressed: () {
               // Add web=true parameter to URL for backend detection
               final webLoginUrl = '$steamLoginUrl?web=true';
-              
+
               // Listen for postMessage from Steam auth popup
               html.window.addEventListener('message', (event) {
                 final messageEvent = event as html.MessageEvent;
                 final data = messageEvent.data;
-                
+
                 if (data is Map && data['type'] == 'STEAM_LOGIN_SUCCESS') {
                   final steamId = data['steamId'];
+                  print('🎮 Received Steam ID from web login: $steamId');
                   if (steamId != null) {
                     // Navigate to main page with actual Steam ID
-                    Navigator.of(context).pushReplacementNamed('/main', arguments: steamId);
+                    Navigator.of(context)
+                        .pushReplacementNamed('/main', arguments: steamId);
                   }
                 }
               });
-              
+
               // Open Steam login in popup window
-              html.window.open(webLoginUrl, 'steam_login', 'width=600,height=700');
+              html.window
+                  .open(webLoginUrl, 'steam_login', 'width=600,height=700');
             },
           ),
         ],

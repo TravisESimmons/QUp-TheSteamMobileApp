@@ -176,6 +176,9 @@ app.get('/auth/steam/return', SteamAuth.verify(), (req, res) => {
 
 app.get('/api/user-info', async (req, res) => {
   const steamId = req.query.steamid;
+  console.log(`🔑 Steam API Key present: ${steamApiKey ? 'YES' : 'NO'}`);
+  console.log(`👤 Getting profile for Steam ID: ${steamId}`);
+  
   const profile = await getPlayerProfile(steamId);
   const friendIds = await getFriendList(steamId);
   res.json({ steamId, profile, friendIds: friendIds.slice(0, 50) });
