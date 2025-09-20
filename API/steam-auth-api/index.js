@@ -137,8 +137,40 @@ app.get('/auth/steam', SteamAuth.authenticate());
 app.get('/auth/steam/return', SteamAuth.verify(), (req, res) => {
   const steamId = req.user?.steamid;
   if (!steamId) return res.status(400).send("Steam login failed");
-  // Restore original deep link redirect for app
-  res.redirect(`steamqapp://auth-success?steamid=${steamId}`);
+  
+  // Check if request is from web (has certain headers or query params)
+  const userAgent = req.get('User-Agent') || '';
+  const isWeb = userAgent.includes('Mozilla') && !userAgent.includes('Mobile');
+  const fromWeb = req.query.web === 'true';
+  
+  if (isWeb || fromWeb) {
+    // For web: Send HTML page that posts message back to parent window
+    res.send(`
+      <!DOCTYPE html>
+      <html>
+        <head><title>Login Success</title></head>
+        <body>
+          <script>
+            // Post message back to Flutter web app
+            if (window.opener) {
+              window.opener.postMessage({
+                type: 'STEAM_LOGIN_SUCCESS',
+                steamId: '${steamId}'
+              }, '*');
+              window.close();
+            } else {
+              // Fallback: redirect to localhost with steamid
+              window.location.href = 'http://localhost:8080?steamid=${steamId}';
+            }
+          </script>
+          <p>Login successful! You can close this window.</p>
+        </body>
+      </html>
+    `);
+  } else {
+    // For mobile apps: use deep link redirect  
+    res.redirect(`steamqapp://auth-success?steamid=${steamId}`);
+  }
 });
 
 
