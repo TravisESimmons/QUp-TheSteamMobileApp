@@ -3,12 +3,16 @@ const express = require('express');
 const session = require('express-session');
 const SteamAuth = require('steam-login');
 const axios = require('axios');
+const path = require('path');
 const appDetailsCache = new Map(); 
 
 const app = express();
 const PORT = 3000;
 const renderUrl = 'https://qup-thesteammobileapp.onrender.com';
 const steamApiKey = process.env.STEAM_API_KEY || '';
+
+// Serve Flutter web app static files
+app.use(express.static(path.join(__dirname, 'web')));
 
 // Add CORS headers to allow requests from localhost (for web development)
 app.use((req, res, next) => {
@@ -362,6 +366,31 @@ app.get('/api/quick-match', async (req, res) => {
   }
 });
 
+// Serve Flutter web app for root route
+app.get('/', (req, res) => {
+  const indexPath = path.join(__dirname, 'web', 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.status(404).send('Web app not found - run flutter build web first');
+  }
+});
+
+// Handle Flutter web app routes (catch-all for non-API routes)
+app.use((req, res, next) => {
+  // Don't serve index.html for API routes
+  if (req.path.startsWith('/api') || req.path.startsWith('/auth')) {
+    return next(); // Let it fall through to 404
+  }
+  
+  const indexPath = path.join(__dirname, 'web', 'index.html');
+  if (fs.existsSync(indexPath)) {
+    res.sendFile(indexPath);
+  } else {
+    res.status(404).send('Web app not found - run flutter build web first');
+  }
+});
+
 app.listen(PORT, '0.0.0.0', () => {
-  console.log(`🚀 LIVE API-ONLY SERVER at ${renderUrl}`);
+  console.log(`🚀 LIVE API + WEB SERVER at ${renderUrl}`);
 });
