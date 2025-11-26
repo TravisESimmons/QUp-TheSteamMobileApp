@@ -76,7 +76,7 @@ Manage preferences and app settings.
 
 ---
 
-## Tech Stack
+**## Tech Stack
 
 - **Client:** Flutter (Dart)  
 - **Backend:** Node.js (Express)  
@@ -85,7 +85,17 @@ Manage preferences and app settings.
 - **Web Deployment:** Flutter Web + Node API (Render)
 
 **Live Web Version (optional):**  
-Add your Render link here once deployed.
+Add your Render link here once deployed.**## Tech Stack
+
+- **Client:** Flutter (Dart)
+- **Backend:** Node.js (Express)
+- **API:** Steam Web API
+- **Authentication:** Steam OpenID
+- **Web Deployment:** Flutter Web + Node API (Render)
+
+### Live Web Demo
+Try the web version here:  
+**https://qup-thesteammobileapp.onrender.com/**
 
 ---
 
