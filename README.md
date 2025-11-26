@@ -76,7 +76,7 @@ Manage preferences and app settings.
 
 ---
 
-**## Tech Stack
+## Tech Stack
 
 - **Client:** Flutter (Dart)  
 - **Backend:** Node.js (Express)  
