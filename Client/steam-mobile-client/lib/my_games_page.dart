@@ -134,13 +134,35 @@ class _MyGamesPageState extends State<MyGamesPage> {
                           margin: const EdgeInsets.symmetric(
                               horizontal: 12, vertical: 6),
                           child: ListTile(
-                            leading: game['img_icon_url'] != null
-                                ? Image.network(
-                                    "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/${game['appid']}/${game['img_icon_url']}.jpg",
-                                    width: 40,
-                                    errorBuilder: (_, __, ___) => const Icon(
-                                        Icons.videogame_asset,
-                                        color: Colors.white70),
+                            leading: game['appid'] != null
+                                ? ClipRRect(
+                                    borderRadius: BorderRadius.circular(4),
+                                    child: Image.network(
+                                      "https://cdn.akamai.steamstatic.com/steam/apps/${game['appid']}/capsule_184x69.jpg",
+                                      width: 60,
+                                      height: 30,
+                                      fit: BoxFit.cover,
+                                      errorBuilder:
+                                          (context, error, stackTrace) {
+                                        // Fallback to icon URL if capsule fails
+                                        if (game['img_icon_url'] != null) {
+                                          return Image.network(
+                                            "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/${game['appid']}/${game['img_icon_url']}.jpg",
+                                            width: 40,
+                                            height: 40,
+                                            errorBuilder: (_, __, ___) =>
+                                                const Icon(
+                                              Icons.videogame_asset,
+                                              color: Colors.white70,
+                                            ),
+                                          );
+                                        }
+                                        return const Icon(
+                                          Icons.videogame_asset,
+                                          color: Colors.white70,
+                                        );
+                                      },
+                                    ),
                                   )
                                 : const Icon(Icons.videogame_asset,
                                     color: Colors.white70),

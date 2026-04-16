@@ -52,18 +52,23 @@ class _QuickMatchPageState extends State<QuickMatchPage> {
 
     if (ids.isEmpty) return;
 
-    // Only take first 20 to avoid huge payloads
-    final batchIds = ids.take(20).join(',');
+    // Load all friends
+    final batchIds = ids.join(',');
 
     try {
       final response = await api.getPlayerSummaries(batchIds);
       final List<dynamic> players = response?['players'] ?? [];
 
-      final profiles = players.map<Map<String, dynamic>>((player) {
+      final profiles = players
+          .where((player) =>
+              player['steamid'] != null &&
+              player['personaname'] != null &&
+              player['avatarfull'] != null)
+          .map<Map<String, dynamic>>((player) {
         return {
-          'steamId': player['steamid'],
-          'name': player['personaname'],
-          'avatar': player['avatarfull'],
+          'steamId': player['steamid'] as String,
+          'name': player['personaname'] as String,
+          'avatar': player['avatarfull'] as String,
         };
       }).toList();
 
@@ -145,8 +150,17 @@ class _QuickMatchPageState extends State<QuickMatchPage> {
                   items: friends.map<DropdownMenuItem<String>>((friend) {
                     return DropdownMenuItem<String>(
                       value: friend['steamId'],
-                      child: Text(friend['name'],
-                          style: const TextStyle(color: Colors.white)),
+                      child: Row(
+                        children: [
+                          CircleAvatar(
+                            radius: 16,
+                            backgroundImage: NetworkImage(friend['avatar']),
+                          ),
+                          const SizedBox(width: 12),
+                          Text(friend['name'],
+                              style: const TextStyle(color: Colors.white)),
+                        ],
+                      ),
                     );
                   }).toList(),
                   onChanged: (value) {

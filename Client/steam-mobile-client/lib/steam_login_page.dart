@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:webview_flutter/webview_flutter.dart';
-import 'dart:html' as html;
+import 'steam_login_web.dart'
+    if (dart.library.io) 'steam_login_stub.dart';
 
 class SteamLoginPage extends StatefulWidget {
   const SteamLoginPage({super.key});
@@ -94,25 +95,11 @@ class _SteamLoginPageState extends State<SteamLoginPage> {
               // Add web=true parameter to URL for backend detection
               final webLoginUrl = '$steamLoginUrl?web=true';
 
-              // Listen for postMessage from Steam auth popup
-              html.window.addEventListener('message', (event) {
-                final messageEvent = event as html.MessageEvent;
-                final data = messageEvent.data;
-
-                if (data is Map && data['type'] == 'STEAM_LOGIN_SUCCESS') {
-                  final steamId = data['steamId'];
-                  print('🎮 Received Steam ID from web login: $steamId');
-                  if (steamId != null) {
-                    // Navigate to main page with actual Steam ID
-                    Navigator.of(context)
-                        .pushReplacementNamed('/main', arguments: steamId);
-                  }
-                }
+              setupWebLogin(webLoginUrl, (steamId) {
+                // Navigate to main page with actual Steam ID
+                Navigator.of(context)
+                    .pushReplacementNamed('/main', arguments: steamId);
               });
-
-              // Open Steam login in popup window
-              html.window
-                  .open(webLoginUrl, 'steam_login', 'width=600,height=700');
             },
           ),
         ],

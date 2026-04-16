@@ -7,7 +7,7 @@
     <application
     android:usesCleartextTraffic="true"
     android:name="${applicationName}"
-    android:label="steam_auth_test"
+    android:label="QUp!"
     android:icon="@mipmap/ic_launcher">
 
         

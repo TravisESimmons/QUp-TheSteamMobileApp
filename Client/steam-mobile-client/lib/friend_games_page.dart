@@ -111,9 +111,7 @@ class _FriendGamesPageState extends State<FriendGamesPage> {
                             final game = filteredGames[index];
                             final hours =
                                 (game['playtime_forever'] ?? 0) / 60.0;
-                            final imageUrl = game['img_icon_url'] != null
-                                ? "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/${game['appid']}/${game['img_icon_url']}.jpg"
-                                : null;
+                            final appid = game['appid'];
 
                             return Card(
                               color: steamBlue,
@@ -128,16 +126,36 @@ class _FriendGamesPageState extends State<FriendGamesPage> {
                                   children: [
                                     ClipRRect(
                                       borderRadius: BorderRadius.circular(8),
-                                      child: imageUrl != null
+                                      child: appid != null
                                           ? Image.network(
-                                              imageUrl,
-                                              width: 54,
-                                              height: 54,
+                                              "https://cdn.akamai.steamstatic.com/steam/apps/$appid/capsule_184x69.jpg",
+                                              width: 72,
+                                              height: 34,
                                               fit: BoxFit.cover,
-                                              errorBuilder: (_, __, ___) =>
-                                                  const Icon(
-                                                      Icons.videogame_asset,
-                                                      color: Colors.white),
+                                              errorBuilder:
+                                                  (context, error, stackTrace) {
+                                                // Fallback to icon URL if capsule fails
+                                                if (game['img_icon_url'] !=
+                                                    null) {
+                                                  return Image.network(
+                                                    "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/$appid/${game['img_icon_url']}.jpg",
+                                                    width: 54,
+                                                    height: 54,
+                                                    errorBuilder: (_, __,
+                                                            ___) =>
+                                                        const Icon(
+                                                            Icons
+                                                                .videogame_asset,
+                                                            color: Colors.white,
+                                                            size: 54),
+                                                  );
+                                                }
+                                                return const Icon(
+                                                  Icons.videogame_asset,
+                                                  size: 54,
+                                                  color: Colors.white,
+                                                );
+                                              },
                                             )
                                           : const Icon(Icons.videogame_asset,
                                               size: 54, color: Colors.white),

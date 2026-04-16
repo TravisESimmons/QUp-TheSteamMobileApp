@@ -53,7 +53,7 @@ class SteamAuthApp extends StatelessWidget {
       valueListenable: settings.themeNotifier,
       builder: (context, isLightMode, _) {
         return MaterialApp(
-          title: 'QueueUp',
+          title: 'QUp!',
           debugShowCheckedModeBanner: false,
           theme: isLightMode ? lightSteamTheme : darkSteamTheme,
           initialRoute: '/',

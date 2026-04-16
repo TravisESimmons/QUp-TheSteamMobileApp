@@ -60,10 +60,14 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
         batch.map((id) async {
           try {
             final profile = await api.fetchFriendProfile(id);
+            // Skip if name or avatar is null
+            if (profile['name'] == null || profile['avatar'] == null) {
+              return null;
+            }
             return {
               'steamId': id,
-              'name': profile['name'],
-              'avatar': profile['avatar'],
+              'name': profile['name'] as String,
+              'avatar': profile['avatar'] as String,
             };
           } catch (_) {
             return null;
