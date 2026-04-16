@@ -94,6 +94,7 @@ class _MyGamesPageState extends State<MyGamesPage> {
       appBar: AppBar(
         title: const Text("My Games"),
         backgroundColor: steamBlue,
+        automaticallyImplyLeading: false,
       ),
       body: loading
           ? const Center(child: CircularProgressIndicator(color: steamAccent))
@@ -138,30 +139,27 @@ class _MyGamesPageState extends State<MyGamesPage> {
                                 ? ClipRRect(
                                     borderRadius: BorderRadius.circular(4),
                                     child: Image.network(
-                                      "https://cdn.akamai.steamstatic.com/steam/apps/${game['appid']}/capsule_184x69.jpg",
+                                      "https://steamcdn-a.akamaihd.net/steam/apps/${game['appid']}/header.jpg",
                                       width: 60,
                                       height: 30,
                                       fit: BoxFit.cover,
-                                      errorBuilder:
-                                          (context, error, stackTrace) {
-                                        // Fallback to icon URL if capsule fails
-                                        if (game['img_icon_url'] != null) {
-                                          return Image.network(
-                                            "https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/apps/${game['appid']}/${game['img_icon_url']}.jpg",
-                                            width: 40,
-                                            height: 40,
-                                            errorBuilder: (_, __, ___) =>
-                                                const Icon(
-                                              Icons.videogame_asset,
+                                      loadingBuilder: (context, child, loadingProgress) {
+                                        if (loadingProgress == null) return child;
+                                        return const SizedBox(
+                                          width: 60,
+                                          height: 30,
+                                          child: Center(
+                                            child: CircularProgressIndicator(
+                                              strokeWidth: 2,
                                               color: Colors.white70,
                                             ),
-                                          );
-                                        }
-                                        return const Icon(
-                                          Icons.videogame_asset,
-                                          color: Colors.white70,
+                                          ),
                                         );
                                       },
+                                      errorBuilder: (_, __, ___) => const Icon(
+                                        Icons.videogame_asset,
+                                        color: Colors.white70,
+                                      ),
                                     ),
                                   )
                                 : const Icon(Icons.videogame_asset,

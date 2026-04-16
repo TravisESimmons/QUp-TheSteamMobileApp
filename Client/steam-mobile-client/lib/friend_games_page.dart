@@ -67,6 +67,7 @@ class _FriendGamesPageState extends State<FriendGamesPage> {
         backgroundColor: const Color(0xFF171a21),
         title: Text("${widget.friendName}'s Games"),
         foregroundColor: Colors.white,
+        automaticallyImplyLeading: true,
       ),
       body: loading
           ? const Center(

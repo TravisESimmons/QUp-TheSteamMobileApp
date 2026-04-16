@@ -90,6 +90,7 @@ class _FriendsListPageState extends State<FriendsListPage> {
       appBar: AppBar(
         title: const Text("Friends List"),
         backgroundColor: steamBlue,
+        automaticallyImplyLeading: false,
       ),
       body: loading
           ? const Center(child: CircularProgressIndicator(color: steamAccent))
