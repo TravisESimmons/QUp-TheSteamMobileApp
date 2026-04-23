@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'services/steam_api_service.dart';
 import 'match_result_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -87,6 +88,8 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
   }
 
   void toggleFriend(String id) {
+    SystemSound.play(SystemSoundType.click);
+    HapticFeedback.selectionClick();
     setState(() {
       if (selectedFriendIds.contains(id)) {
         selectedFriendIds.remove(id);
@@ -97,6 +100,8 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
   }
 
   void toggleGenre(String genre) {
+    SystemSound.play(SystemSoundType.click);
+    HapticFeedback.selectionClick();
     setState(() {
       selectedGenres.contains(genre)
           ? selectedGenres.remove(genre)
@@ -108,6 +113,7 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
     final allSteamIds = [widget.steamId, ...selectedFriendIds];
     if (selectedFriendIds.isEmpty) return;
 
+    HapticFeedback.lightImpact();
     showDialog(
       context: context,
       barrierDismissible: false,
@@ -128,6 +134,7 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
       maxSizeGB: maxSize,
     );
 
+    if (!mounted) return;
     Navigator.pop(context);
 
     if (results.isNotEmpty) {
@@ -176,21 +183,61 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                         ...friends.map((f) {
                           final selected =
                               selectedFriendIds.contains(f['steamId']);
-                          return Card(
-                            color: steamBlue,
-                            child: CheckboxListTile(
-                              value: selected,
-                              onChanged: (_) => toggleFriend(f['steamId']),
-                              title: Text(f['name'],
-                                  style: const TextStyle(color: Colors.white)),
-                              secondary: CircleAvatar(
-                                backgroundImage: NetworkImage(f['avatar']),
+                          return AnimatedContainer(
+                            duration: const Duration(milliseconds: 180),
+                            curve: Curves.easeOut,
+                            margin: const EdgeInsets.only(bottom: 10),
+                            decoration: BoxDecoration(
+                              color: steamBlue.withValues(
+                                alpha: selected ? 242 : 199,
                               ),
-                              controlAffinity: ListTileControlAffinity.leading,
-                              activeColor: Colors.lightBlueAccent,
+                              borderRadius: BorderRadius.circular(14),
+                              border: Border.all(
+                                color: selected
+                                    ? Colors.lightBlueAccent.withValues(
+                                        alpha: 140,
+                                      )
+                                    : Colors.white10,
+                                width: selected ? 1.2 : 1,
+                              ),
+                              boxShadow: selected
+                                  ? [
+                                      BoxShadow(
+                                        blurRadius: 18,
+                                        spreadRadius: 0,
+                                        offset: const Offset(0, 8),
+                                        color: Colors.lightBlueAccent.withValues(
+                                          alpha: 31,
+                                        ),
+                                      ),
+                                    ]
+                                  : const [],
+                            ),
+                            child: AnimatedScale(
+                              scale: selected ? 1 : 0.996,
+                              duration: const Duration(milliseconds: 180),
+                              curve: Curves.easeOut,
+                              child: CheckboxListTile(
+                                value: selected,
+                                onChanged: (_) => toggleFriend(f['steamId']),
+                                title: Text(
+                                  f['name'],
+                                  style: const TextStyle(
+                                    color: Colors.white,
+                                    fontWeight: FontWeight.w600,
+                                  ),
+                                ),
+                                secondary: CircleAvatar(
+                                  backgroundImage: NetworkImage(f['avatar']),
+                                ),
+                                controlAffinity:
+                                    ListTileControlAffinity.leading,
+                                activeColor: Colors.lightBlueAccent,
+                                checkColor: Colors.black,
+                              ),
                             ),
                           );
-                        }).toList(),
+                        }),
                       ],
                     ),
                   ),
@@ -245,7 +292,11 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                 children: [
                   Checkbox(
                     value: coopOnly,
-                    onChanged: (val) => setState(() => coopOnly = val ?? false),
+                    onChanged: (val) {
+                      SystemSound.play(SystemSoundType.click);
+                      HapticFeedback.selectionClick();
+                      setState(() => coopOnly = val ?? false);
+                    },
                     activeColor: Colors.lightBlueAccent,
                   ),
                   const Text("Co-op only",
@@ -256,8 +307,11 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                 children: [
                   Checkbox(
                     value: versusOnly,
-                    onChanged: (val) =>
-                        setState(() => versusOnly = val ?? false),
+                    onChanged: (val) {
+                      SystemSound.play(SystemSoundType.click);
+                      HapticFeedback.selectionClick();
+                      setState(() => versusOnly = val ?? false);
+                    },
                     activeColor: Colors.lightBlueAccent,
                   ),
                   const Text("Versus only",
@@ -280,7 +334,11 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                             child: Text("$y",
                                 style: const TextStyle(color: Colors.white)))
                     ],
-                    onChanged: (val) => setState(() => minYear = val ?? 2000),
+                    onChanged: (val) {
+                      SystemSound.play(SystemSoundType.click);
+                      HapticFeedback.selectionClick();
+                      setState(() => minYear = val ?? 2000);
+                    },
                   ),
                   const SizedBox(width: 24),
                   const Text("Max Year:",
@@ -296,8 +354,11 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                             child: Text("$y",
                                 style: const TextStyle(color: Colors.white)))
                     ],
-                    onChanged: (val) =>
-                        setState(() => maxYear = val ?? DateTime.now().year),
+                    onChanged: (val) {
+                      SystemSound.play(SystemSoundType.click);
+                      HapticFeedback.selectionClick();
+                      setState(() => maxYear = val ?? DateTime.now().year);
+                    },
                   ),
                 ],
               ),
@@ -315,6 +376,7 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                       divisions: 40,
                       label: "${minSize.toStringAsFixed(0)} GB",
                       onChanged: (val) => setState(() => minSize = val),
+                      onChangeStart: (_) => HapticFeedback.selectionClick(),
                       activeColor: Colors.lightBlueAccent,
                       inactiveColor: Colors.grey,
                     ),
@@ -334,6 +396,7 @@ class _CustomMatchPageState extends State<CustomMatchPage> {
                       divisions: 40,
                       label: "${maxSize.toStringAsFixed(0)} GB",
                       onChanged: (val) => setState(() => maxSize = val),
+                      onChangeStart: (_) => HapticFeedback.selectionClick(),
                       activeColor: Colors.lightBlueAccent,
                       inactiveColor: Colors.grey,
                     ),

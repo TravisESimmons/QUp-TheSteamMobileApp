@@ -10,17 +10,62 @@ void main() async {
   runApp(const SteamAuthApp());
 }
 
+const _steamDark = Color(0xFF1b2838);
+const _steamDarker = Color(0xFF171a21);
+const _steamAccent = Color(0xFF66c0f4);
+const _steamGreen = Color(0xFF89C623);
+
 final ThemeData darkSteamTheme = ThemeData.dark().copyWith(
-  scaffoldBackgroundColor: const Color(0xFF1b2838),
+  scaffoldBackgroundColor: _steamDark,
   appBarTheme: const AppBarTheme(
-    backgroundColor: Color(0xFF171a21),
+    backgroundColor: _steamDarker,
     foregroundColor: Colors.white,
     iconTheme: IconThemeData(color: Colors.white),
   ),
   bottomNavigationBarTheme: const BottomNavigationBarThemeData(
-    backgroundColor: Color(0xFF171a21),
-    selectedItemColor: Color(0xFF66c0f4),
+    backgroundColor: _steamDarker,
+    selectedItemColor: _steamAccent,
     unselectedItemColor: Colors.white70,
+  ),
+  colorScheme: ThemeData.dark().colorScheme.copyWith(
+        primary: _steamAccent,
+        secondary: _steamGreen,
+        surface: const Color(0xFF0f1720),
+      ),
+  cardTheme: CardThemeData(
+    color: const Color(0xFF1f2c3a),
+    elevation: 0,
+    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+  ),
+  snackBarTheme: const SnackBarThemeData(
+    backgroundColor: Color(0xFF0f1720),
+    contentTextStyle: TextStyle(color: Colors.white),
+    behavior: SnackBarBehavior.floating,
+  ),
+  inputDecorationTheme: InputDecorationTheme(
+    filled: true,
+    fillColor: Colors.white12,
+    border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
+    enabledBorder: OutlineInputBorder(
+      borderRadius: BorderRadius.circular(12),
+      borderSide: const BorderSide(color: Colors.white12),
+    ),
+    focusedBorder: OutlineInputBorder(
+      borderRadius: BorderRadius.circular(12),
+      borderSide: const BorderSide(color: _steamAccent, width: 1.4),
+    ),
+  ),
+  elevatedButtonTheme: ElevatedButtonThemeData(
+    style: ElevatedButton.styleFrom(
+      backgroundColor: _steamAccent,
+      foregroundColor: Colors.white,
+      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
+      textStyle: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+    ),
+  ),
+  progressIndicatorTheme: const ProgressIndicatorThemeData(
+    color: _steamAccent,
   ),
 );
 
@@ -38,8 +83,30 @@ final ThemeData lightSteamTheme = ThemeData.light().copyWith(
     unselectedItemColor: Colors.black54,
   ),
   colorScheme: ThemeData.light().colorScheme.copyWith(
-        primary: const Color(0xFF66C0F4),
+        primary: _steamAccent,
+        secondary: _steamGreen,
       ),
+  cardTheme: CardThemeData(
+    elevation: 0,
+    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+  ),
+  snackBarTheme: const SnackBarThemeData(
+    behavior: SnackBarBehavior.floating,
+  ),
+  inputDecorationTheme: InputDecorationTheme(
+    filled: true,
+    fillColor: Colors.black12,
+    border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
+  ),
+  elevatedButtonTheme: ElevatedButtonThemeData(
+    style: ElevatedButton.styleFrom(
+      backgroundColor: _steamAccent,
+      foregroundColor: Colors.white,
+      padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 14),
+      textStyle: const TextStyle(fontSize: 16, fontWeight: FontWeight.w700),
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+    ),
+  ),
 );
 
 class SteamAuthApp extends StatelessWidget {
