@@ -1,21 +1,29 @@
 const fs = require('fs');
 const express = require('express');
 const session = require('express-session');
-const SteamAuth = require('steam-login');
+const openid = require('openid');
 const axios = require('axios');
 const path = require('path');
 const appDetailsCache = new Map(); 
 
 const app = express();
-const PORT = 3000;
-const renderUrl = 'https://qup-thesteammobileapp.onrender.com';
+const PORT = process.env.PORT || 3000;
+const renderUrl = process.env.APP_BASE_URL || 'https://qup-thesteammobileapp.onrender.com';
 const steamApiKey = process.env.STEAM_API_KEY || '';
+const steamRelyingParty = new openid.RelyingParty(
+  `${renderUrl}/auth/steam/return`,
+  `${renderUrl}/`,
+  true,
+  true,
+  []
+);
 
 // Serve Flutter web app static files
 app.use(express.static(path.join(__dirname, 'web')));
 
 // Add CORS headers to allow requests from localhost (for web development)
 app.use((req, res, next) => {
+  console.log(`${new Date().toISOString()} ${req.method} ${req.originalUrl}`);
   res.header('Access-Control-Allow-Origin', '*');
   res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS');
   res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept, Authorization');
@@ -34,12 +42,18 @@ const localGameCache = JSON.parse(fs.readFileSync('./filteredMultiplayerGames.js
 
 
 
-app.use(session({ secret: 'queueup_secret', resave: false, saveUninitialized: true }));
-app.use(SteamAuth.middleware({
-  realm: `${renderUrl}/`,
-  verify: `${renderUrl}/auth/steam/return`,
-  apiKey: steamApiKey
-}));
+app.use(session({ secret: process.env.SESSION_SECRET || 'queueup_secret', resave: false, saveUninitialized: true }));
+app.use((req, _res, next) => {
+  if (req.session?.steamUser) {
+    req.user = req.session.steamUser;
+    req.logout = () => {
+      delete req.session.steamUser;
+      req.user = null;
+    };
+  }
+
+  next();
+});
 
 function isGameActuallyMultiplayer(meta) {
   const name = (meta?.name || "").toLowerCase();
@@ -78,28 +92,91 @@ function isGameActuallyMultiplayer(meta) {
 
 
 async function getOwnedGames(steamId) {
-  const res = await axios.get('https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/', {
-    params: { key: steamApiKey, steamid: steamId, include_appinfo: true }
+  const res = await steamApiGet('https://api.steampowered.com/IPlayerService/GetOwnedGames/v1/', {
+    key: steamApiKey,
+    steamid: steamId,
+    include_appinfo: true
   });
   return res.data?.response?.games || [];
 }
 
 async function getFriendList(steamId) {
-  const res = await axios.get('https://api.steampowered.com/ISteamUser/GetFriendList/v1/', {
-    params: { key: steamApiKey, steamid: steamId, relationship: 'friend' }
+  const res = await steamApiGet('https://api.steampowered.com/ISteamUser/GetFriendList/v1/', {
+    key: steamApiKey,
+    steamid: steamId,
+    relationship: 'friend'
   });
   return res.data?.friendslist?.friends?.map(f => f.steamid) || [];
 }
 
 async function getPlayerProfile(steamId) {
-  const res = await axios.get('https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v2/', {
-    params: { key: steamApiKey, steamids: steamId }
+  const res = await steamApiGet('https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v2/', {
+    key: steamApiKey,
+    steamids: steamId
   });
   const player = res.data?.response?.players?.[0];
   return {
     name: player?.personaname || 'Friend',
     avatar: player?.avatarfull || 'https://avatars.cloudflare.steamstatic.com/placeholder.jpg'
   };
+}
+
+async function steamApiGet(url, params) {
+  try {
+    return await axios.get(url, { params });
+  } catch (err) {
+    const status = err.response?.status;
+    const method = url.split('/').filter(Boolean).pop();
+    console.error(`Steam API ${method} failed`, {
+      status,
+      steamid: params.steamid || params.steamids,
+      apiKeyPresent: Boolean(steamApiKey),
+      body: err.response?.data
+    });
+    throw err;
+  }
+}
+
+function authenticateWithSteam(_req, res, next) {
+  steamRelyingParty.authenticate('https://steamcommunity.com/openid', false, (err, authUrl) => {
+    if (err) {
+      console.error('Steam OpenID authentication failed:', err);
+      return next('Authentication failed.');
+    }
+
+    if (!authUrl) {
+      return next('Authentication failed.');
+    }
+
+    res.redirect(authUrl);
+  });
+}
+
+function verifySteamOpenId(req, _res, next) {
+  steamRelyingParty.verifyAssertion(req, (err, result) => {
+    if (err) {
+      console.error('Steam OpenID verification failed:', err);
+      return next('Failed to authenticate user.');
+    }
+
+    if (!result?.authenticated) {
+      return next('Failed to authenticate user.');
+    }
+
+    const match = result.claimedIdentifier?.match(/^https?:\/\/steamcommunity\.com\/openid\/id\/(\d+)$/);
+    if (!match) {
+      return next('Claimed identity is not valid.');
+    }
+
+    req.user = { steamid: match[1] };
+    req.session.steamUser = req.user;
+    req.logout = () => {
+      delete req.session.steamUser;
+      req.user = null;
+    };
+
+    next();
+  });
 }
 
 async function getAppDetails(appId) {
@@ -149,8 +226,8 @@ async function getAppDetails(appId) {
 // === Routes ===
 
 app.get('/', (req, res) => res.send('<a href="/auth/steam">Login with Steam</a>'));
-app.get('/auth/steam', SteamAuth.authenticate());
-app.get('/auth/steam/return', SteamAuth.verify(), (req, res) => {
+app.get('/auth/steam', authenticateWithSteam);
+app.get('/auth/steam/return', verifySteamOpenId, (req, res) => {
   const steamId = req.user?.steamid;
   if (!steamId) return res.status(400).send("Steam login failed");
   
@@ -194,10 +271,19 @@ app.get('/api/user-info', async (req, res) => {
   const steamId = req.query.steamid;
   console.log(`🔑 Steam API Key present: ${steamApiKey ? 'YES' : 'NO'}`);
   console.log(`👤 Getting profile for Steam ID: ${steamId}`);
-  
-  const profile = await getPlayerProfile(steamId);
-  const friendIds = await getFriendList(steamId);
-  res.json({ steamId, profile, friendIds: friendIds.slice(0, 50) });
+
+  try {
+    const profile = await getPlayerProfile(steamId);
+    const friendIds = await getFriendList(steamId);
+    res.json({ steamId, profile, friendIds: friendIds.slice(0, 50) });
+  } catch (err) {
+    const status = err.response?.status || 500;
+    res.status(status).json({
+      error: 'Failed to fetch Steam user info',
+      status,
+      apiKeyPresent: Boolean(steamApiKey)
+    });
+  }
 });
 
 app.get('/api/friend-profile', async (req, res) => {

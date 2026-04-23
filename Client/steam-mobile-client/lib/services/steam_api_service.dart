@@ -2,8 +2,10 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class SteamApiService {
-  static const String baseUrl =
-      'https://qup-thesteammobileapp.onrender.com'; // Render deployment URL
+  static const String baseUrl = String.fromEnvironment(
+    'API_BASE_URL',
+    defaultValue: 'https://qup-thesteammobileapp.onrender.com',
+  );
   // static const String baseUrl = 'http://10.0.2.2:3000'; // Android emulator localhost
   // static const String baseUrl = 'http://localhost:3000';
   // static const String baseUrl = 'http://192.168.1.93:3000';

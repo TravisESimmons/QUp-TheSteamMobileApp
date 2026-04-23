@@ -14,8 +14,10 @@ class SteamLoginPage extends StatefulWidget {
 class _SteamLoginPageState extends State<SteamLoginPage> {
   WebViewController? _controller;
 
-  final String steamLoginUrl =
-      'https://qup-thesteammobileapp.onrender.com/auth/steam'; // Render deployment URL
+  static const String steamLoginUrl = String.fromEnvironment(
+    'STEAM_LOGIN_URL',
+    defaultValue: 'https://qup-thesteammobileapp.onrender.com/auth/steam',
+  );
 
   // final String steamLoginUrl = 'http://192.168.1.93:3000/auth/steam'; // ← old IP
   // final String steamLoginUrl = 'http://192.168.149.243:3000/auth/steam';
