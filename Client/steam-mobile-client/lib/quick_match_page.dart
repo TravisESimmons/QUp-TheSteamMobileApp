@@ -44,7 +44,8 @@ class _QuickMatchPageState extends State<QuickMatchPage> {
         setState(() {
           selectedFriendId = savedId;
           selectedFriendName =
-              friends.firstWhere((f) => f['steamId'] == savedId)['name'];
+              friends.firstWhere((f) => f['steamId'] == savedId)['name']
+                  ?.toString();
         });
       }
     }
@@ -71,9 +72,10 @@ class _QuickMatchPageState extends State<QuickMatchPage> {
               player['avatarfull'] != null)
           .map<Map<String, dynamic>>((player) {
         return {
-          'steamId': player['steamid'] as String,
-          'name': player['personaname'] as String,
-          'avatar': player['avatarfull'] as String,
+          // Avoid strict casts here; web builds can surface unexpected types.
+          'steamId': player['steamid'].toString(),
+          'name': player['personaname'].toString(),
+          'avatar': player['avatarfull'].toString(),
         };
       }).toList();
 
@@ -177,19 +179,26 @@ class _QuickMatchPageState extends State<QuickMatchPage> {
                         style: TextStyle(color: Colors.white70),
                       ),
                       items: friends.map<DropdownMenuItem<String>>((friend) {
+                        final avatarUrl = friend['avatar']?.toString();
+                        final name = friend['name']?.toString() ?? 'Unknown';
                         return DropdownMenuItem<String>(
                           value: friend['steamId'],
                           child: Row(
                             children: [
                               CircleAvatar(
                                 radius: 16,
-                                backgroundImage: NetworkImage(
-                                  friend['avatar'] as String,
-                                ),
+                                backgroundImage:
+                                    (avatarUrl == null || avatarUrl.isEmpty)
+                                        ? null
+                                        : NetworkImage(avatarUrl),
+                                child: (avatarUrl == null || avatarUrl.isEmpty)
+                                    ? const Icon(Icons.person,
+                                        size: 18, color: Colors.white70)
+                                    : null,
                               ),
                               const SizedBox(width: 12),
                               Text(
-                                friend['name'] as String,
+                                name,
                                 style: const TextStyle(color: Colors.white),
                               ),
                             ],
@@ -202,7 +211,8 @@ class _QuickMatchPageState extends State<QuickMatchPage> {
                         setState(() {
                           selectedFriendId = value;
                           selectedFriendName = friends
-                              .firstWhere((f) => f['steamId'] == value)['name'];
+                              .firstWhere((f) => f['steamId'] == value)['name']
+                              ?.toString();
                         });
                       },
                     ),
