@@ -1,0 +1,18 @@
+**/.git
+**/.gitignore
+
+# Flutter / Dart build artifacts
+**/.dart_tool
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build
+
+# Node
+**/node_modules
+npm-debug.log*
+
+# IDE / OS
+**/.DS_Store
+**/Thumbs.db
+**/*.log
+
